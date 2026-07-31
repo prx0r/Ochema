@@ -1,0 +1,5 @@
+BORIS SYSTEM (Beyblade Orchestrated Reincarnation and Integration System)
+Scale: session/person. The register with a personality.
+KEY: ReincarnationManager = karmic update rule; Daimon self-naming = recognition; SynergyMatrix = the Architect's governance loop; MorphoDreamscape = dreaming; exp thresholds 1.0/3.0/7.0 = orchestration law; resonance_tensor = state omega; trim windows = the Veil.
+OCHEMA: The most complete runnable implementation of the bearer. Use as the game's core and the whattheheckis demo.
+Status: Tier-4. 9-part concatenation; last definition of each class is operative.

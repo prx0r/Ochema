@@ -1,0 +1,1 @@
+Near-duplicate draft of quantum.txt (same arena, same classes, ends mid-way at AEvolutionSystem._mutate; adds FluidShapeshift). Read quantum.txt instead.

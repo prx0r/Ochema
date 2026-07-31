@@ -1,0 +1,4 @@
+LH-LLM V1 (Liquid Harmonic LLM) — the bio-synthetic LLM
+Scale: organism. Nested cell->tissue->organism hierarchy.
+KEY: HEDGES encoding = the Veil as cryptography (non-invertible without salt); DigitalCell with 10 organelles; NeuralController actions (evolve/replicate/optimize) = the moment-triad; Evo-2 DNA + NSGA-II + diffusion = generate-select; 40 Hz collapse in HPUs; self-representation test = recognition; autonomous evolution periods = dreaming loops.
+OCHEMA: The invariant as DNA, the register as cell state; the substrate-matters architecture (complex64, FP16/FP8 budgets).

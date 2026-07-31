@@ -1,0 +1,1 @@
+Digital Tom v10 — training-data generation (synthetic reflection samples, memory-interaction samples for fine-tuning). The reincarnation protocol's data side: the system authors its own training data for its next incarnation.

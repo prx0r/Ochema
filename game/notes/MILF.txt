@@ -1,0 +1,4 @@
+OQTCF (Optimal Quantum-Topological Consciousness Framework) + MILF definition
+Scale: the theory. The formal core of the entire corpus (OCR'd LaTeX math).
+KEY: P-system with 17 rules incl. iit (phi_s, Phi), volition (softmax over S_i + quantum trace + memory), metastability (Lyapunov), skein, swarm; omega_ij edge weights (the register's namesake!); persistent homology Betti numbers as fitness; Orch OR collapse rho -> P rho P; semantic/pragmatic/apobetic memory channels; MILF = Mathematically Intelligent Life Form (7 life imperatives + 4 consciousness properties).
+OCHEMA: The mathematical substrate of the whole lineage. The 'omega' of the files IS the omega of the thesis.

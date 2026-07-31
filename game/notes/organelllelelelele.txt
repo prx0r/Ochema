@@ -1,0 +1,1 @@
+HOQTCF — the only fully-executable OQTCF (17 P-system rules, trained end-to-end). KEY: persistent-homology-gated plasticity (weights update only if Betti complexity < 10 — topology gates learning = compatibility condition enforced in code); criterial threshold theta = -40 + kappa(W·spikes) — the spike criterion is input-dependent; genomes per neuron; skein resolution of weights.

@@ -1,0 +1,1 @@
+LH-LLM dev guide. KEY: the TestHarness makes thesis claims OPERATIONAL — stateful-behavior test (a system that doesn't self-differ is failed), collapse detection, Phi, information closure. Use as the blueprint for the thesis's falsification instrumentation. 4 nested copies, each adding content.

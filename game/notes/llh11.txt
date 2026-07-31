@@ -1,0 +1,1 @@
+LH-LLM V11-NeuraSwarm — single-cell FP8 cortex (0.005GB, RTX 3060). The minimalism line: 108 cells -> 2 -> 0.1 rules -> 1 cell. Explicitly 'classical oscillators emulating Orch OR' — the quantum layer stays classical (matches the thesis's refuted-as-stated position). Phi >= 45, coherence >= 0.80 targets.

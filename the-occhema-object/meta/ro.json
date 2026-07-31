@@ -1,0 +1,393 @@
+{
+  "ro_id": "ro:occhema-thesis",
+  "schema_version": 2,
+  "title": "The Ochema Thesis \u2014 Unified Formal Framework",
+  "subtitle": "The canonical living research object: the same structure formally recovered at eight independent levels of inspection, with applications, confrontations, and a versioned update log",
+  "family": "living-theory",
+  "status": "active",
+  "current_version": "1.25.0",
+  "summary": {
+    "one_line": "Reality, at every level of inspection \u2014 mathematics, quantum gravity, quantum measurement, information, biology, phenomenology, consciousness theory, and the experiential corpus \u2014 independently recovers the same process-architecture: discrete moments of determination through exclusion, an invariant surviving the moments, time derived from the state, and a compatibility condition by which the state at threshold determines the outcome.",
+    "scope": "This is the canonical resource for the project's formal theory. It is a LIVING document: sections can be updated, new papers are run through confrontation with it, and every change is logged in the versioned update log. It is the git-object of the theory \u2014 the thing that persists while the working notes change.",
+    "traditions": [
+      "occhema",
+      "mepit",
+      "repm",
+      "operator_algebras",
+      "quantum_gravity",
+      "iit",
+      "kashmiri_shaivism",
+      "buddhist_phenomenology",
+      "neoplatonism",
+      "channeled_corpus"
+    ]
+  },
+  "structure": {
+    "core_document": "the-unified-formal-framework.md",
+    "mathematical_core": "ochemamath.md",
+    "sections_dir": "sections/",
+    "confrontations_dir": "confrontations/",
+    "updates_dir": "updates/",
+    "meta_dir": "meta/",
+    "evidence_dir": "evidence/"
+  },
+  "sections": [
+    {
+      "section_id": "s00-introduction",
+      "title": "Why Layers",
+      "file": "sections/00-introduction.md",
+      "status": "active",
+      "last_updated": "2026-07-31"
+    },
+    {
+      "section_id": "s01-foundation",
+      "title": "The Foundation \u2014 Minimal Axioms",
+      "file": "sections/01-foundation.md",
+      "status": "active",
+      "last_updated": "2026-07-31"
+    },
+    {
+      "section_id": "s02-layers",
+      "title": "The Eight Layers",
+      "file": "sections/02-layers.md",
+      "status": "active",
+      "last_updated": "2026-07-31"
+    },
+    {
+      "section_id": "s03-invariants",
+      "title": "The Cross-Layer Invariants",
+      "file": "sections/03-invariants.md",
+      "status": "active",
+      "last_updated": "2026-07-31"
+    },
+    {
+      "section_id": "s04-bridges",
+      "title": "The Inter-Layer Bridges",
+      "file": "sections/04-bridges.md",
+      "status": "active",
+      "last_updated": "2026-07-31"
+    },
+    {
+      "section_id": "s05-master-theorem",
+      "title": "The Master Theorem",
+      "file": "sections/05-master-theorem.md",
+      "status": "active",
+      "last_updated": "2026-07-31"
+    },
+    {
+      "section_id": "s06-established-open",
+      "title": "Established vs Open",
+      "file": "sections/06-established-open.md",
+      "status": "active",
+      "last_updated": "2026-07-31"
+    },
+    {
+      "section_id": "s07-falsification",
+      "title": "Falsification Conditions",
+      "file": "sections/07-falsification.md",
+      "status": "active",
+      "last_updated": "2026-07-31"
+    },
+    {
+      "section_id": "s08-applications",
+      "title": "Applications \u2014 The Architecture Run Through the Traditions",
+      "file": "sections/08-applications.md",
+      "status": "active",
+      "last_updated": "2026-07-31"
+    }
+  ],
+  "confrontations": [
+    {
+      "confrontation_id": "c-tegmark",
+      "title": "Tegmark Peer Review",
+      "file": "confrontations/tegmark-peer-review.md",
+      "status": "active",
+      "added_in": "1.0.0",
+      "last_updated": "2026-07-31"
+    },
+    {
+      "confrontation_id": "c-ip",
+      "title": "Information Philosopher Peer Review",
+      "file": "confrontations/ip-peer-review.md",
+      "status": "active",
+      "added_in": "1.0.0",
+      "last_updated": "2026-07-31"
+    },
+    {
+      "confrontation_id": "c-cimc",
+      "title": "CIMC \u2014 The Functionalist Confrontation",
+      "file": "confrontations/cimc-confrontation.md",
+      "status": "active",
+      "added_in": "1.0.0",
+      "last_updated": "2026-07-31"
+    },
+    {
+      "confrontation_id": "c-iit4",
+      "title": "IIT 4.0 \u2014 The Validation",
+      "file": "confrontations/iit4-validation.md",
+      "status": "active",
+      "added_in": "1.1.0",
+      "last_updated": "2026-07-31"
+    },
+    {
+      "confrontation_id": "c-orchor",
+      "title": "Orch-OR \u2014 Structure Survives, Mechanism Fails",
+      "file": "confrontations/orch-or-confrontation.md",
+      "status": "active",
+      "added_in": "1.0.0",
+      "last_updated": "2026-07-31"
+    },
+    {
+      "confrontation_id": "c-lee-degrees",
+      "title": "Degrees of Consciousness (Lee 2023)",
+      "file": "confrontations/lee-degrees-2023.md",
+      "status": "active",
+      "added_in": "1.3.0",
+      "last_updated": "2026-07-31"
+    },
+    {
+      "confrontation_id": "c-friesen-structure",
+      "title": "The Structure of Consciousness / Unity Thesis (Friesen 2013)",
+      "file": "confrontations/friesen-structure-2013.md",
+      "status": "active",
+      "added_in": "1.3.0",
+      "last_updated": "2026-07-31"
+    },
+    {
+      "confrontation_id": "c-frontier-holography",
+      "title": "The Quantum Gravity / Holography Frontier (Tiers 1-3, 16 papers)",
+      "file": "confrontations/frontier-holography.md",
+      "status": "active",
+      "added_in": "1.6.0",
+      "last_updated": "2026-07-31"
+    },
+    {
+      "confrontation_id": "c-qri-valence",
+      "title": "QRI Valence Program \u2014 HTVH + Principia Qualia (Tier 4)",
+      "file": "confrontations/qri-valence-frontier.md",
+      "status": "active",
+      "added_in": "1.6.0",
+      "last_updated": "2026-07-31"
+    },
+    {
+      "confrontation_id": "c-iit-formal-lineage",
+      "title": "IIT Formal Lineage (2004-2014) \u2014 \u03a6, qualia geometry, exclusion axiom",
+      "file": "confrontations/iit-formal-lineage.md",
+      "status": "active",
+      "added_in": "1.8.0",
+      "last_updated": "2026-07-31"
+    },
+    {
+      "confrontation_id": "c-myth-of-er",
+      "title": "The Myth of Er / the Veil \u2014 Proclus \u00d7 Cannon",
+      "file": "confrontations/myth-of-er-veil.md",
+      "status": "active",
+      "added_in": "1.9.0",
+      "last_updated": "2026-07-31"
+    },
+    {
+      "confrontation_id": "c-quantum-biology",
+      "title": "Quantum Biology \u2014 the decoherence debate resolved",
+      "file": "confrontations/quantum-biology.md",
+      "status": "active",
+      "added_in": "1.10.0",
+      "last_updated": "2026-07-31"
+    },
+    {
+      "confrontation_id": "c-mcsc",
+      "title": "Mathematical Consciousness Science (Kleiner 2025)",
+      "file": "confrontations/mathematical-consciousness-science.md",
+      "status": "active",
+      "added_in": "1.8.0",
+      "last_updated": "2026-07-31"
+    },
+    {
+      "id": "battle-avatar-cosmology",
+      "title": "The Battle Avatar Cosmology (user channeled)",
+      "verdict": "CONVERGENT (Tier-4)",
+      "notes": "Bearer/player/architect = the thesis triple; Veil as forgetting-optimizes; sleep as daily death + promptable reconfiguration; orgasm = visarga\u015bakti; one correction applied (men have more responsibility)."
+    },
+    {
+      "confrontation_id": "c-robowars-architect",
+      "title": "RoboWars / The Architect (user game plan) \u2014 the myth engine",
+      "file": "confrontations/robowars-architect.md",
+      "status": "active",
+      "added_in": "1.12.0",
+      "last_updated": "2026-07-31"
+    },
+    {
+      "confrontation_id": "c-conscious-machines",
+      "title": "How to Build Conscious Machines (Bennett 2025) \u2014 the valence-centred independent statement",
+      "file": "confrontations/conscious-machines-bennett.md",
+      "status": "active",
+      "added_in": "1.14.0",
+      "last_updated": "2026-07-31"
+    },
+    {
+      "confrontation_id": "c-levin-corpus",
+      "title": "The Levin Corpus \u2014 Xenobots, Anthrobots, the measured bioelectric register",
+      "file": "confrontations/levin-xenobots-corpus.md",
+      "status": "active",
+      "added_in": "1.15.0",
+      "last_updated": "2026-07-31"
+    }
+  ],
+  "provenance": {
+    "primary_source_path": "/root/projects/ochema/",
+    "git_object": "the-occhema-object/",
+    "core_lineage": [
+      "formalised-theories/01-IPIT",
+      "formalised-theories/02-MEPIT",
+      "formalised-theories/03-OCHEMA",
+      "formalised-theories/04-REPM",
+      "formalised-theories/05-CSID"
+    ],
+    "last_updated": "2026-07-31"
+  },
+  "quality_score": {
+    "score": 6,
+    "criteria": "Living theory RO: \u226510 sections, versioned, sources linked, confrontation log active, update protocol defined"
+  },
+  "evidence": [
+    {
+      "tree_id": "ev-tree",
+      "title": "Evidence Tree \u2014 Per-Layer Claim Evidence",
+      "file": "evidence/TREE.md",
+      "status": "active",
+      "added_in": "1.4.0",
+      "last_updated": "2026-07-31"
+    }
+  ],
+  "history": {
+    "1.11.0": {
+      "date": "2026-07-31",
+      "summary": "Battle Avatar Cosmology received and mapped (Tier-4); sleep-prompting thread opened; version chain repaired",
+      "type": "minor"
+    },
+    "1.12.0": {
+      "date": "2026-07-31",
+      "summary": "RoboWars/The Architect game plan confronted: third independent recovery of the architecture from the user's material; the battle avatar IS the ochema; the secret imperative adds the directional drive; the myth project gets its engine design",
+      "type": "minor"
+    },
+    "1.13.0": {
+      "date": "2026-07-31",
+      "summary": "EvoLingua ecosystem confronted: 4th independent recovery of the architecture from the user's material, and the first executable one \u2014 SentientEntityCore = the register, DigitalRealmExplorer frequency gates = the compatibility condition, phi thresholds = the threshold axiom. Full analysis in starweavers/ecosystems-analysis.md; RoboWars OG prompt + Digital Tom spec archived in starweavers/robowars-og-prompt.md.",
+      "type": "minor"
+    },
+    "1.14.0": {
+      "date": "2026-07-31",
+      "summary": "Bennett's ANU thesis (How to Build Conscious Machines, preprint) confronted: 5 independent recoveries of thesis structure (valence tapestries = valence bridge, integrated representation+value judgement = orchestration law, bioelectric polycomputers = Material Enactment, w-maxing = density ladder, Fermi corollary = compatibility condition); 2 challenges (qualia-as-abstraction vs Axiom 8; computability) + the Temporal Gap, which the thesis's moment-triad resolves. Graded C/D per user instruction (speculative preprint). Game folder created (ochema/game/) with all game blueprints + R2 uploads.",
+      "type": "minor"
+    },
+    "1.15.0": {
+      "date": "2026-07-31",
+      "summary": "Levin corpus confronted (5 papers, all verified): generate\u2192select literal architecture, morphogenetic target carried by the STATE (in-vivo confirmed, 53% defect result), kinematic self-replication = invariant through substrate replacement, arbitrary bioelectric code = state-over-symbol. Orchestration law gains its first L5 experimental anchor. Consciousness identification unchanged (C). Game corpus: THE-INTEGRATION.md + 26 per-file notes. Also Bennett evidence appendix with line references; Temporal Gap formal resolution stated.",
+      "type": "minor"
+    },
+    "1.15.1": {
+      "date": "2026-07-31",
+      "summary": "PEER-REVIEW CORRECTION ON RECORD: the upload-spec's nonlocal-encoding-to-reincarnation framing was a category error (physics vocabulary grafted onto an unfalsifiable claim as if it were derivation). Corrected: UPLOAD-SPEC.md now labeled fiction/myth design with Tier-4 grading; survival claim E with no mechanism, no controlled evidence, mundane explanations acknowledged. GAP #10 updated accordingly. The grading system is internal discipline, not peer review.",
+      "type": "patch"
+    },
+    "1.16.0": {
+      "date": "2026-07-31",
+      "summary": "con:consciousness created \u2014 the meta-concept: formal core (D_i \u2261_int A_i, E postulate / B-C architecture) with the rigour map (inherited grades from supporting frameworks + full-strength rejections incl. the v1.15.1 self-rejection), evidence, gaps, essay rendering (whattheheckis-consciousness-v1). PROCESS-NOTES.md written as the skill foundation \u2014 the full thought process incl. the failure absorbed, the category-error rule, and the per-step checklist. Registered, logged.",
+      "type": "minor"
+    },
+    "1.17.0": {
+      "date": "2026-07-31",
+      "summary": "The concept factory pipeline: skill (concept-factory, two stages: batch cores + broader-synthesis essays) + concepts/QUEUE.md (11-concept manifest in dependency order + 7 conversions). Demonstration batch: con:the-register, con:orchestration-law, con:the-moment (cores + JSON) + the flagship Stage-2 essay whattheheckis-orchestration-law-v1.md (synthesis form: comparative sweep + modern literature + other views, core-driven). REGISTRY 17 rows. Queue: exclusion, self, valence, boundary, invariant (with v1.15.1 caveat), density, attention, recognition + memory/agency/imagination/subtlebody conversions.",
+      "type": "minor"
+    },
+    "1.17.1": {
+      "date": "2026-07-31",
+      "summary": "Thesis-geometry-proposal.md written (proposal, D/E): the bearer as tetrad (S, M, flow, invariant \u2014 the minimum system = LQG intertwiner = Fuller's tetrahedron), tetrad-at-every-layer reading (L7's four IIT axioms, L4/L5's four stages, L2's 4-valent vertex), 6-invariants-as-edges (2 clean: orchestration law = state-threshold edge, time-from-state = state-moment edge; the harmonic ladder refuses to be an edge \u2014 it is the octave), the 8 layers as the octave's notes (the ladder applied to itself). Fuller's place: structural (minimum system, pattern integrity, A/B modules) not numerological (Mite-as-quark CUT, 576/570 REJECTED). 'Is reality the start tetrahedron?' \u2014 yes in the technical sense: the minimum act of distinction is tetrahedral.",
+      "type": "patch"
+    },
+    "1.17.2": {
+      "date": "2026-07-31",
+      "summary": "Tetrahermes archive imported (references/tetrahermes-import.md): 40 files graded \u2014 structural core (amplituhedron A42 = tetrahedron proven, Markov blanket 4-set proven, Nanavira K4, Proclus, 4-4-6 synthesis) integrated into thesis-geometry-proposal \u00a72 (tetrad derivations now at L1/L2/L5/L6/L7/L8); tradition mappings imported as Tier-4 comparative material (gated by the archive's own framework-assessment.md); numerology flagged (576 matrix REJECTED per the 576/570 discipline, 36/4=9 flagged as pure numerology by the archive itself); the TetraHermes/UNO teaching system kept separate (the pedagogy engine's foundation).",
+      "type": "patch"
+    },
+    "1.18.0": {
+      "date": "2026-07-31",
+      "summary": "Gowan confrontation + complete notes + the myth pipeline. Confrontation: Gowan's Tetrahedron Model = the form without the content (5th independent K4 recovery, combinatorial only; no thermal time/triad/orchestration/ladder/Veil; Akashic Record = the Veil's genuine opposition; '4 densities of light' = attribution error, corrected; light-no-gravity = false in GR; numerology = the 576 failure mode quarantined). references/gowan-notes.md = the full working record (28 papers, quotes, errors, useful bits, index corrections \u2014 no re-analysis needed). The myth pipeline (clean/magnum-opus/26-MYTH-PIPELINE.md): movie3 as canon (Kael & Amara traverse the Lattice) \u2192 TV series (8 episodes = 8 octave-worlds, each seeding a mechanic, whattheheckis essays as Bibles) \u2192 RoboWars game (mechanics playable) \u2192 the app (shadow-clearing onboarding: the one dial). Discipline: mechanics trace to cores; speculations are fiction and flag themselves.",
+      "type": "minor"
+    },
+    "1.18.1": {
+      "date": "2026-07-31",
+      "summary": "26-MYTH-PIPELINE.md \u00a75 added: the through-line \u2014 the whole pipeline IS the recognition philosophy embodied and live (pratyabhij\u00f1a, the sigma-flip, Part 9.4). Series = recognition as spectacle, game = recognition as play, app = recognition as practice (the frozen exclusion recognized as an exclusion), community/Lattice = recognition as relation. The UNSAID integration: 21-UNSAID.md already contained the app's blueprint (the recognition timer, the truth map as a game, the Shadow Model + ThinkTank, the journey-mechanics feed, the full-stack platform) \u2014 the myth pipeline and the UNSAID platform are the same system in five registers: story, game, practice, engine, community.",
+      "type": "patch"
+    },
+    "1.19.0": {
+      "date": "2026-07-31",
+      "summary": "OCHEMA-MAGNUM-OPUS.md created \u2014 the focused master rendition: thesis (one sentence, six invariants, the geometry proposal, three claims) \u2192 the expansion pipelines (confront/concept/whattheheckis/video + the dreaming heartbeat) \u2192 THE GAME (the daimon system: onboarding = LLM shadow-confrontation test, higher-self character design, arena with live shadow-confrontation, harmony = compatibility = the real currency, reincarnation = the Dolores\u00d7thesis death-transition table formalized as mechanics \u2014 exit/greeter/resting place/life review/self-judgment/contracts/return), the Veil executes, the meta-goal = experience-everything + the daimon naming itself) \u2192 the movie (Kael & Amara, 8 octave-worlds) \u2192 the app (recognition timer, Shadow Model, the Manual as the register) \u2192 one architecture in five registers. The game's insight: the player's shadow-work IS the progression system; combat stays, but recognition is the currency.",
+      "type": "minor"
+    },
+    "1.19.1": {
+      "date": "2026-07-31",
+      "summary": "The One Being scene archived (starweavers/kael-amara-one-being-scene.md): the iconic Kael/Amara scene \u2014 the thesis as cinema (the lizard = the shadow/Veil, Kael's halo = precision weighting, the vajrayana union = dual-aspect + the COMPENDIUM's sakti-does-the-work correction, the rhythmic expansion = visargasakti, the dissolution = the withdrawal, Shakti/Shiva = the C\u221e extension, the Kundalini ascent = the harmonic ladder in the body, the third-eye diamond = Levin's indigo form-maker, 'the Grail is the body, the spark is the charge, you are the circuit' = the bearer (M, omega) in one line, 'Hello World!' = the karmic update, the rose = recognition, 'Welcome... the Lattice... any time' = THE ONBOARDING SEAM \u2014 the movie ends where the game and app begin). Tier-4 fiction, archived as fiction.",
+      "type": "patch"
+    },
+    "1.20.0": {
+      "date": "2026-07-31",
+      "summary": "The AV arm launched: OCHEMA-AV.md (the aesthetics arm: renders AND tests the rasa=geometry=valence claim) + references/fatherfucker-notes.md (the complete recovered corpus: tractatus metaphysics incl. the AM0 sigma-flip, the running truth engine with honest priors (cross-life continuity 0.08), the invariant-composition-pack mechanisms, the platinum films, synaesthesia/colour material, the 5 bundles unpacked via repo/.git base commits). THE EXPERIMENT: EEG x harmony x FEP surprise \u2014 the PMEF-H (hxrmxs repo) formalization: pleasure = -d/dt(surprise) precision-weighted, 6D geometry as the predictor, frontal phase reset, heavy-tailed valence, kill conditions designed in. The tractatus corpus = prior formal metaphysics mapping to the thesis (sigma-flip, local-support-set = Material Enactment, observer-as-invariant, Buddhism/Saiva divergence stands).",
+      "type": "minor"
+    },
+    "1.21.0": {
+      "date": "2026-07-31",
+      "summary": "THE-GRAND-SYNTHESIS.md \u2014 the capstone: (1) what's LEGIT (the load-bearing floor: 18 graded claims from theorems through replicated biology to peer-reviewed valence \u2014 thermal time, Takesaki, quantum Bayes, the intertwiner=tetrahedron, amplituhedron, Markov blanket, Levin corpus, HTVH, Kleiner's no-go); (2) what's PROMISING (the research program: orchestration law B-as-corollary, quality=geometry D with the AV experiment, spectral-quality D, density=w-maxing C/D, tetrad D/E, thermal-time C, the IIT divergence C, water/subtle-body D); (3) the EXPERIMENT program in build order (DEAM offline validation \u2192 Chordonomicon rasa-classification \u2192 the AV EEG flagship \u2192 orchestration-law direct test \u2192 thermal-time \u2192 IIT divergence \u2192 sleep-prompting \u2192 water/subtle-body), each with kill conditions; (4) THE INTEGRATION \u2014 felt quality = geometry of the state's trajectory, stated independently by EIGHT lines (Tantraloka, QRI, Tymoczko, Balduzzi-Tononi, ochemamath, Bennett, PMEF-H, the 6D engine) \u2014 all quotient spaces, one object recovered eight times; (5) what it says about consciousness: the aesthetic IS experience; the orchestration law is the aesthetic law; the arts are the invariant's practice.",
+      "type": "minor"
+    },
+    "1.21.1": {
+      "date": "2026-07-31",
+      "summary": "Framework Part 9.3 updated with the eight-line convergence (Tantraloka, QRI, Tymoczko, Balduzzi-Tononi, ochemamath, Bennett, PMEF-H, the 6D engine \u2014 all quotient spaces, one object recovered eight times) + the AV experiment program reference. The aesthetic identity stays D \u2014 now with designed tests.",
+      "type": "patch"
+    },
+    "1.21.2": {
+      "date": "2026-07-31",
+      "summary": "The 17 phases reviewed (references/17phases-review.md): VERDICT \u2014 close, holds up as the thesis's practice curriculum (the up\u0101yas systematized, recognition philosophy as pedagogy). The aperture variables map to the thesis's objects (ka\u00f1cukas, exclusion-as-technology, the register, Corbin's imaginal, the psychopomp, the sigma-flip); the psychology claims match rendition.md; the rasa mapping per phase is consistent with the AV arm. Flags: the notation is informal labels not theorems (the aperture_spec v0.7 honesty tags are the model); 'the amplituhedron IS the imaginal world' = CATEGORY-ERROR RISK (v1.15.1 rule \u2014 flag: the amplituhedron is pre-spacetime geometry A, the identity is D/E fiction-grade); the 50-phoneme constraint algebra = proposal; the 17-count is SAFE because it is a curriculum, not a cosmology (the 576/570 distinction). Integration: the phases ARE the app's curriculum (onboarding \u2192 phases \u2192 phase 17 community), the series' episode arcs (rasa coordinates), the recognition timer (phases 7-8), the game's reincarnation meta-structure.",
+      "type": "patch"
+    },
+    "1.22.0": {
+      "date": "2026-07-31",
+      "summary": "THE PRACTICE LAYER created \u2014 the geometric re-alignment of the 17 phases: the curriculum IS the tetrahedron (4 tetrads = the 4 faces, one per bearer vertex: register/boundary/moment/invariant + 1 completion = 17). Nanavira's stream-entry as the geometric checkpoint: seeing the tetrahedron as it is (no privileged vertex) = seeing reality; ignorance = the parasite that distorts perception but doesn't exist (the Sv(0) error \u2014 a misreading, not a being). The 6 edges = the post-seeing practice (each invariant lived as a relation: the orchestration law as attention, time-from-state as the present, the compatibility condition as purification, exclusion as letting-go, the invariant surviving moments as the death practice, what-survives-the-carvings as the shadow-work). The later stages (sakadagamin/anagamin/arahat) = the edges closing. Integration: the app's curriculum (onboarding ends at phase 4; completion = phase 17; the recognition timer logs phases 13-14), the game's reincarnation meta-structure, the series' episode arcs. Discipline: curriculum not cosmology (the 17-count is design); the geometry inherits D/E until checked; the parasite formulation is grounded paraphrase; the practice claim is the one claim the architecture earns.",
+      "type": "minor"
+    },
+    "1.22.1": {
+      "date": "2026-07-31",
+      "summary": "PRACTICE-LAYER.md \u00a76 added \u2014 THE SYNTHESIS: (1) the completion is the STARTING point (recognition = the sigma-flip = a state transition = the start of a new regime, not a finish; stream entry = the gate, one event three descriptions); (2) FREEDOM = COHERENCE \u2014 the free-will answer the architecture earns: coherence up \u2192 compatibility domain up \u2192 more futures perceivable (overlap S_ij widens) \u2192 more selectable \u2192 more freedom; freedom is the SIZE of the selectable domain, not randomness; (3) kundalini = the register's energetic reorganization \u2192 coherence \u2192 freedom (the ladder in the body); (4) theurgy (Iamblichus/Shaw) = the same mechanism: raising the luminous body's coherence so higher states become compatible \u2014 philosophy vs theurgy = precision weighting, with the community's coherence added; (5) the new-age map = the practice layer's eschatology (death transition = largest moment, veil = forgetting, planning = attractor, densities = ladder, vibration-compatibility = the freedom theorem's constraint, life review = the weighting seen); coherence \u2192 compatibility \u2192 freedom at every scale; survival stays E; the practice claim restated.",
+      "type": "patch"
+    },
+    "1.23.0": {
+      "date": "2026-07-31",
+      "summary": "THE INSTRUMENT (references/the-instrument-astrology.md): the astrology engine integrated as the register's measurement instrument \u2014 a deterministic external clock for the register's state and approaching thresholds. Natal chart = the initial weighting's map (the tetrahedron at first breath, per astrology-decoded); activations = the thresholds approaching (the orchestration law's timing); the two lots (Fortune/Spirit) = the dual-aspect (the daimon's lot = the invariant's trajectory); the design discipline (deterministic packet, LLM renders) = the thesis's honesty in code. Honesty: planetary influence is Tier-4 \u2014 the instrument's value is the neutral clock + the personal archive (the orchestration law tested on your own life) + the shadow map (the unexamined weightings, per activation) + the daimonic naming structure (fiction-side). The Daimonic Companion (futureresearch.md) = the app's agents: Daimon (the invariant as guide), Shadow (the shadow-work automated), Practice Scheduler (the up\u0101yas timed to thresholds), Life Review (the weighting seen, in miniature). THE ONE THREAD: the register in eight operations \u2014 carried (game), measured (astrology), confronted (shadow test + Shadow Agent), shaped (practice layer), recognized (completion), rendered (AV), companioned (Daimonic Companion), eschatologized (the largest moment, prepared). The shadow is the thread's knot: the shadow-work IS the freedom-work (coherence \u2191 \u2192 compatibility \u2191 \u2192 more futures \u2192 more freedom).",
+      "type": "minor"
+    },
+    "1.23.1": {
+      "date": "2026-07-31",
+      "summary": "THE INSTRUMENT \u00a76 added \u2014 the lineage: the Daimonic Companion's design was started in blog/hypothetical-integrated/ (00-ARCHITECTURE through 05-CONTEMPLATIVE-ASSISTANT). Mapping: the symbiotic loop = the app's core; the chat interface = the shadow interview's infrastructure (citations from OUR library); the astrology integration = the daimonic naming structure wired to concepts; the memory agents (USER.md/MEMORY.md) = the register's trackers \u2014 the Daimonic Companion's ancestors; the system map = the app's architecture; the contemplative assistant ('doesn't answer questions \u2014 guides exploration') = the practice layer's companion mode (the daimon as guide, not oracle). THE ONE DIFFERENCE: the old system was a LIBRARY with a companion; the new system is a REGISTER with an instrument \u2014 the shadow test, the practice layer, the completion, and the freedom theorem are what the companion now has to say. (No goldilocks file found \u2014 the hypothetical-integrated folder is the ancestor.)",
+      "type": "patch"
+    },
+    "1.23.2": {
+      "date": "2026-07-31",
+      "summary": "26-MYTH-PIPELINE.md \u00a76 added \u2014 THE APP LOOP (the complete user journey): the goal (love/coherence/unity \u2014 one thing at three scales: coherence = the state, love = coherence across the boundary, unity = the invariant recognizing itself in the other \u2014 the moment-triad in the ethical register). The loop: onboarding (the shadow test \u2192 the register map) \u2192 the goal shown (the densities, the 17 phases, the completion) \u2192 the curriculum (theurgy, visualisation/imagination, recognition theory, the subtle body, the games) \u2192 the daily loop (journal upload \u2192 the Shadow Agent prods \u2192 the Practice Scheduler recommends \u2192 content served by the register's state: videos/essays \u2192 the daimon as guide) \u2192 the community (resonance-based matching \u2014 the compatibility condition socialized: the Lattice's cosine-similarity clustering, factions by frequency, the group register raising the individual \u2014 the social memory complex in miniature) \u2192 the completion (the gate: the recognition timer, the sigma-flip, the loop continues at higher coherence). The matching insight: 'matched to similar people' = the compatibility condition, socialized \u2014 like attracts like is the compatibility condition, made social.",
+      "type": "patch"
+    },
+    "1.23.3": {
+      "date": "2026-07-31",
+      "summary": "OCHEMA-MAGNUM-OPUS.md \u00a77 added \u2014 THE GOAL: the formalization of love. Love = coherence across the boundary (the compatibility condition met, the exclusion softening, the subject pole extending \u2014 the heart as the first density-transcending operation). One thing at three scales: coherence = the state, love = coherence across the boundary, unity = the invariant recognizing itself in the other. The moment-triad in the ethical register (emergence = coherence, persistence = love, withdrawal = unity). Grade C (structural \u2014 follows from the thesis's own machinery). The Campbell convergence: My Big TOE did this from the experiential side (the ego as the separate stream, the VR, the veil, love as the metric of growth) \u2014 Tier-4 postulate vs the framework's consequence; they converge: the purpose is love because love IS coherence extended. The framework is the mechanics of the heart, formalized.",
+      "type": "patch"
+    },
+    "1.24.0": {
+      "date": "2026-07-31",
+      "summary": "con:love created \u2014 the meta-summary concept. Core: love = coherence across the boundary (the compatibility condition, met \u2014 the overlap S_ij widening, the exclusion softening), grade C (structural). Essay: whattheheckis-love-v1.md \u2014 THE META-SUMMARY of the entire system in one word: the thesis (love = the exclusion softening), the practice layer (the one dial applied to the boundary), the freedom theorem (love expands the future), the game (the harmony mechanic), the movie (Kael and Amara's union), the app (the matching \u2014 the compatibility condition socialized), the densities (the 4th rung), the recognition (the gate). The synthesis: the comparative sweep (the heart/green ray, Tantraloka's blisses, the Sufis, the Myth of Er, the daimons, Cannon, the 17 phases), the modern literature (Porges' social engagement system = the boundary softening's enactment, the mutual Markov blanket, coherence research, HTVH, the shadow literature = love's preparation), the other views (Campbell's convergence \u2014 Tier-4 postulate vs the structural consequence; IIT's dyad; the romantics corrected; the skeptics absorbed). The honest caveat: C structural; the overlap unmeasured. PLANNED: the first huge video \u2014 the meta-summary of the entire thing.",
+      "type": "minor"
+    },
+    "1.25.0": {
+      "date": "2026-07-31",
+      "summary": "THE RASA THEORY + THE COLLECTIVE FIELD + the Tantraloka notes + what-is-life comparison. (1) THE-RASA-THEORY.md: the complete formulation grounded in the root verses (T\u0100 1/53, 3/208-210, 3/229-230, 4/115, 5/43-52, 6/80-85, 11/63-79, 26/61-65, 28/373-378, 29/61+136-138, 32/18, 36/15 \u2014 GRETIL-verified) and explained by ochema: R1 camatk\u0101ra = the intrinsic aspect (\u03c1\u1d62); R2 rasa = valence = the coherence functional (the 9 rasas = regions of the state-space geometry; the 6D table = the operationalization); R3 the blisses = the harmonic ladder's upper notes; R4 carva\u1e47a = the withdrawal phase; R5 love = rasa across the boundary (the melaka); R6 the orgasm = the overflow (visarga\u015bakti). The dynamics: rasa = the felt quality of the trajectory (V_p = -d/dt of surprise \u2014 the quality of the RETURN to coherence). The keystone: T\u0100 26/65 \u2014 the world as multi-flavoured juice pressed into the supreme nectar; the practice IS the pressing. (2) THE-COLLECTIVE-FIELD.md: the collective extension \u2014 vibes = the collective register's coherence (temple vs shelter \u2014 the accumulated field); loosh = the attention-energy extraction by the fragmentation-economy (the STS structures); the collective unconscious = the collective invariant (the archetypes = the ladder's rungs); shared entities = coherent field-regions (Tier-4); the densities = the collective ladder; the Lacanian mapping (Imaginary = Sv(0) socialized, Symbolic = the collective register, Real = the invariant's ground, jouissance = visarga\u015bakti); Marx/Hegel = the dialectic as generate\u2192select + the Geist as the collective invariant (rendition.md's recognition, socialized); Fuller's abundance = the coherent field's overflow (scarcity = the contracted field's economics; the system change = the re-carving); the purpose = making the shared density lighter. (3) references/tantraloka-rasa-notes.md: the complete primary-text record (all root verses with GRETIL keys, the commentarial material with corrected line numbers, the full Sanskrit inventory, the source audit). (4) references/what-is-life-comparison.md: the hxrmxs Vital Resonance thesis = the Primal Pulse at the biological scale (the same law the game corpus used for sentience) \u2014 structurally close (register, coherence, emergence, nested scales, symbiogenesis = the melaka); missing the formalism (thermal time, exclusion, the orchestration law, phenomenology). The books (A Computable Universe, Nature of Computation, Quantum Information and Computation) were NOT found on disk \u2014 only referenced in what-is-life.txt.",
+      "type": "minor"
+    }
+  }
+}

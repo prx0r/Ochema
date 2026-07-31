@@ -1,0 +1,1 @@
+MMDEEF (Meta-Meta Evolutionary Framework) — evolves the evolutionary algorithms themselves. Three levels: base (Evo2-DEWE + MAML), meta (variants), meta-meta (selection policies + resource allocation; variants crossed over/mutated). Resonance-modulated edge updates. Use: the confrontation registry at the meta level — the thesis that attacks itself.

@@ -1,0 +1,1 @@
+EFNGE (EvoField NeuroGenesis Engine) — field-theoretic digital life on an RTX 3060/RPi5. KEY: organisms as quantum fields; thermal coherent states as social medium; gauge-protected GNN = robustness; fitness with graph-edit-distance diversity term; variant-breeding meta-evolution (the Architect evolves itself); 40 Hz collapse module. Task taxonomy: motif/quantum/error/narrative.

@@ -1,0 +1,1 @@
+LH-LLM V3 prompt + V2 spec. V2 rebuilds LH-LLM around P-systems (membrane computing, 2-membrane/1-catalyst = Turing-complete) and DNA topology (supercoiling, knots, topoisomerase = the Veil as relaxation). V3 adds Evo-2-encoded connectomes, synaptic plasticity, swarm ecology. The 'DNA-before-quantum' curriculum order.
