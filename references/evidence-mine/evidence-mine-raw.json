@@ -1,0 +1,612 @@
+[
+ {
+  "avenue": "A4 mycelial cognition",
+  "title": "Fungal Memory and Minimal Cognition.",
+  "authors": "\u0160ekrst K.",
+  "year": "2026",
+  "journal": "Topics in cognitive science",
+  "doi": "10.1111/tops.70070",
+  "pmcid": "",
+  "abstract": "This paper argues that fungal mycelial networks exhibit minimal cognition through memory-integrated adaptive regulation. Drawing on cybernetic and enactivist frameworks, I develop a non-representational account of memory as the organism's capacity to modulate behavior based on temporally extended environmental coupling. I propose four operational criteria for minimal cognition: feedback-guided regulation of behavior, maintenance of internal viability conditions, structural modulation based on past environmental interactions, and plasticity across time scales that supports anticipatory adaptivity. Empirical evidence demonstrates that fungi meet all four criteria through distributed memory mechanisms: fungal networks exhibit directional regrowth toward previously encountered resources even after spatial displacement, stress priming persists across multiple cell divisions, Spitzenk\u00f6rper-mediated directional persistence in constrained environments, and transgenerational memory through spore imprinting. These findings challenge representationalist assumptions in cognitive science by showing that memory and cognition can emerge from morphodynamic, biochemical, and electrophysiological processes without necessary neural substrates or symbolic representations. Fungal cognition demonstrates that the organizational principles underlying cognition-feedback-driven adaptation, norm-preserva"
+ },
+ {
+  "avenue": "A4 mycelial cognition",
+  "title": "An experimental approach to study foraging memory in ectomycorrhizal mycelium.",
+  "authors": "Parise AG, De Oliveira VH, Tamagnini F, Tibbett M, Pickles BJ.",
+  "year": "2025",
+  "journal": "Communicative & integrative biology",
+  "doi": "10.1080/19420889.2025.2580130",
+  "pmcid": "PMC12599362",
+  "abstract": "Behavioral ecology of fungi is an emerging field investigating how fungi respond to environmental stimuli through morphological and physiological changes. Progress requires methodologies suited to fungal biology. Here, we developed an experimental approach to test for memory in the ectomycorrhizal fungus <i>Laccaria bicolor</i>. We hypothesized that mycelium exposed to pea cotyledons would retain directional information about the nutrient source. To test this, a portion of the mycelium was transferred to fresh medium, where memory would be assessed by asymmetrical growth toward the former nutrient position. The hypothesis was not supported, but the methods offer a framework for exploring fungal behavior in both ectomycorrhizal and saprotrophic species. Although no evidence of memory was found, this study highlights the value of publishing both positive and negative results and provides tools to advance research on fungal cognition and behavior."
+ },
+ {
+  "avenue": "A4 mycelial cognition",
+  "title": "Advancing fungal sinusitis diagnosis: a radiomics and machine learning approach.",
+  "authors": "Li S, Li R, Ma Q, Zheng C, Yan X, Chen S.",
+  "year": "2026",
+  "journal": "BMC medical imaging",
+  "doi": "10.1186/s12880-026-02494-x",
+  "pmcid": "",
+  "abstract": "<h4>Background</h4>Differentiating fungal from chronic sinusitis remains a diagnostic challenge due to overlapping symptoms.<h4>Objectives</h4>This study aims to enhance diagnostic accuracy for fungal sinusitis by integrating radiomic analysis with machine learning.<h4>Methods</h4>Data from 106 fungal and 146 chronic sinusitis patients, confirmed by surgical pathology at the Integrated Traditional Chinese and Western Medicine Hospital of Wenzhou Medical University from January 2022 to December 2025, were analyzed. Radiomic features from CT scans were extracted and reduced to 19 key indicators using 3DSlicer, Minimum Redundancy Maximum Relevance (mRMR), and lasso regression. A comparative analysis of logistic regression, support vector machine, and random forest models selected the optimal model based on AUC performance.<h4>Results</h4>Using mRMR followed by LASSO regression, 19 key radiomic features were selected to distinguish fungal sinusitis from chronic sinusitis. Among logistic regression, SVM, and random forest, the random forest model performed best, achieving a training AUC of 96.04% and a test AUC of 94.91%, with corresponding accuracies of 92.51% and 91.30%. Calibration curves confirmed excellent agreement between predicted and actual outcomes, demonstrating strong diagnostic reliability. Calibration curves showed strong agreement between predicted probabilities and a"
+ },
+ {
+  "avenue": "A10 plant personality",
+  "title": "The Predictors of Unsafe Behaviors among Nuclear Power Plant Workers: An Investigation Integrating Personality, Cognitive and Attitudinal Factors.",
+  "authors": "Tao D, Diao X, Qu X, Ma X, Zhang T.",
+  "year": "2023",
+  "journal": "International journal of environmental research and public health",
+  "doi": "10.3390/ijerph20010820",
+  "pmcid": "PMC9819622",
+  "abstract": "Unsafe behaviors, such as violations and human errors, have long been recognized as the main causes of accidents in nuclear power plants (NPPs). However, personal factors that influence unsafe behaviors among NPP workers have not been well examined, especially in an integrated model. This study proposes an integrated contextual mediated model to examine personality, cognitive and attitudinal predictors of unsafe behaviors among commissioning workers at NPPs. The model was verified using structural equation modeling technique with survey data from 177 commissioning workers in two Chinese NPPs. Results show that personality traits (i.e., conscientiousness, neuroticism, openness and agreeableness), executive function and safety attitudes exerted significant effects on unsafe behaviors. In addition, the effects of agreeableness and executive function were partly mediated by safety attitudes. Both conscientiousness and neuroticism indirectly influenced unsafe behaviors through the mediating role of executive function. The findings shed light on the design of evidence-based interventions for safety performance in NPPs."
+ },
+ {
+  "avenue": "A10 plant personality",
+  "title": "Personality traits, knowledge, and consumer acceptance of genetically modified plant and animal products",
+  "authors": "Ardebili AT, Rickertsen K.",
+  "year": "2019",
+  "journal": "Food Quality and Preference.",
+  "doi": "",
+  "pmcid": "",
+  "abstract": "Several studies have investigated the associations between personality traits and consumer behavior, but little attention has been paid to the role of personality traits in the acceptance of genetically modified (GM) food products or knowledge concerning the application of GM technologies. We used a large Norwegian survey to investigate the associations between personality traits, knowledge about GM use in agriculture, attitudes, and willingness to pay (WTP) to avoid GM foods. Using a random effect interval regression model, we found premiums between 19% and 23% to avoid GM soybean oil, GM-fed salmon, and GM salmon. Neuroticism was associated with increased acceptance of GM soybean oil. Conscientiousness was associated with increased acceptance of GM-fed and GM salmon, and agreeableness was associated with increased aversion against these products. Conscientiousness and agreeableness were also associated with knowledge. Agreeable respondents were less likely to think that genetic modification was applied in Norwegian agriculture, and conscientious respondents were more likely to wrongly think so. Attitudes towards naturalness of foods were strongly correlated with increased WTP to avoid GM foods. Current policy restrictions concerning the use of GM technologies are likely to affect the perceived safety of GM foods. Information and more liberal regulations may change attitudes t"
+ },
+ {
+  "avenue": "A10 plant personality",
+  "title": "The effects of personality types on self-reported safety behavior: Focused on plant workers in Korea.",
+  "authors": "Jong-Hyun L, Soo-Hyun S, Seung-Nam M, Kyung-Sun L.",
+  "year": "2018",
+  "journal": "Accident; analysis and prevention",
+  "doi": "10.1016/j.aap.2018.08.016",
+  "pmcid": "",
+  "abstract": "We sought to validate a safety behavior tool used in South Korean nuclear power plants, and to investigate the effects of HEXACO personality types on safety behaviors. The participants were 242 individuals employed in corporate safety management who answered the questionnaires on safety behaviors checklist, impulsiveness, affectivity, job burnout, and perfectionism. An exploratory factor analysis was conducted on the safety behavior items, and the convergent and discriminant validity were confirmed through correlational analyses with the existing related variables. To examine the individual effects of personality variables on the validated safety behavior questionnaire, we introduced control variables into a subsequent hierarchical regression analysis. The analyses revealed that the personality variables had significant effects on the subscales of the safety behavior scale. The present study is significant in that it revealed that personality, a broad construct, can predict human errors and safety behaviors, which have had previously been found to associate with only specific variables, such as stress, impulsiveness, and perfectionism."
+ },
+ {
+  "avenue": "A9 transgenerational plant memory",
+  "title": "Effects of an increase in water temperature on inter- and transgenerational plasticity reveal a short-term metabolic and phenotypic memory in an aquatic plant species",
+  "authors": "Loupit G, Sancharme M, Petriacq P, Valls Fonayet J, Bittebiere A.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.64898/2026.07.06.736556",
+  "pmcid": "",
+  "abstract": "<h4>Summary</h4>  Transgenerational plasticity can shape plant phenotype and influence plant response to environmental changes in interaction with the current conditions. While how past stress interact with either current optimal or stress conditions is increasingly documented within a single plant, transgenerational plasticity remains particularly poorly understood especially at the metabolome level. In our study, we investigated whether heat stress induces transgenerational metabolic and phenotypic modifications along two successive clonal ramet generations of the sub-Antarctic aquatic plant  Limosella australis . We performed untargeted metabolomics approaches and measured morphologic and performance traits, to assess both transgenerational plasticity of the metabolome and the phenotype. We found that heat stress remodelled the metabolic profile and influenced the foraging strategy of our clonal plant, and that some of these metabolic changes persisted into the first clonal generation. This one therefore adopted an intermediate growth strategy, even though culture conditions were optimal. By comparing differentially accumulated features between daughter ramets from heat stressed mother ramets and from unstressed mother ramets, we identified common and specific metabolites accumulation to heat stress response, belonging to diverse compound families. However, we did not observ"
+ },
+ {
+  "avenue": "A9 transgenerational plant memory",
+  "title": "Marks that persist: DNA methylation in plant transgenerational memory and inheritance.",
+  "authors": "Auler PA, do Amaral MN.",
+  "year": "2025",
+  "journal": "Plant physiology and biochemistry : PPB",
+  "doi": "10.1016/j.plaphy.2025.110680",
+  "pmcid": "",
+  "abstract": "Although the term \"plant memory\" remains somewhat controversial, its effects have played a fundamental role in shaping plant evolution. As plants evolved under dynamic and often unpredictable environmental conditions, they developed a variety of adaptive strategies to ensure survival and reproductive success. The ability to modulate responses based on prior experiences suggests that plants can retain short- and long-term memories to optimize future stress responses. While genetic mutations are undeniably involved in evolutionary adaptation, more dynamic mechanisms of stress recall and response are largely mediated by epigenetic regulation. This review focuses on the most recent advances in epigenetically mediated plant memory, particularly the role of DNA methylation in transgenerational inheritance. We explore examples of memory formation induced by abiotic and biotic factors, as well as molecular mechanisms that may promote the persistence or reversibility of memory across generations. Studies include the repression of defense genes in modern maize cultivars, memory transmission through volatile organic compounds, contrasting results in Arabidopsis plants regarding DNA methylation and heritable stress memory, and experiments conducted in extreme environments such as outer space and the Chernobyl zone. Finally, we highlight practical applications, such as seed priming and hard"
+ },
+ {
+  "avenue": "A9 transgenerational plant memory",
+  "title": "Transgenerational Effects and Epigenetic Memory in the Clonal Plant Trifolium repens.",
+  "authors": "Rendina Gonz\u00e1lez AP, Preite V, Verhoeven KJF, Latzel V.",
+  "year": "2018",
+  "journal": "Frontiers in plant science",
+  "doi": "10.3389/fpls.2018.01677",
+  "pmcid": "PMC6256281",
+  "abstract": "Transgenerational effects (TGE) can modify phenotypes of offspring generations playing thus a potentially important role in ecology and evolution of many plant species. These effects have been studied mostly across generations of sexually reproducing species. A substantial proportion of plant species are however reproducing asexually, for instance via clonal growth. TGE are thought to be enabled by heritable epigenetic modification of DNA, although unambiguous evidence is still scarce. On the clonal herb white clover (<i>Trifolium repens</i>), we tested the generality of clonal TGE across five genotypes and five parental environments including soil contamination and above-ground competition. Moreover, by genome wide-methylation variation analysis we explored the role of drought, one of the parental environments that triggered the strongest TGE. We tested the induction of epigenetic changes in offspring generations using several intensities and durations of drought stress. We found that TGE of different environments were highly genotype specific and all tested environments triggered TGE at least in some genotypes. In addition, parental drought stresses triggered epigenetic change in <i>T. repens</i> and most of the induced epigenetic change was maintained across several clonal offspring generations. We conclude that TGE are common and genotype specific in clonal plant <i>T. repe"
+ },
+ {
+  "avenue": "L5 bioelectric decision",
+  "title": "Bioelectric Impedance Analysis Test Improves the Detection of Prostate Cancer in Biopsy Candidates: A Multifeature Decision Support System.",
+  "authors": "Bartoletti R, Greco A, Di Vico T, Durante J, Ficarra V, Scilingo EP, Valenza G.",
+  "year": "2021",
+  "journal": "Frontiers in oncology",
+  "doi": "10.3389/fonc.2021.555277",
+  "pmcid": "PMC8430220",
+  "abstract": "Prostate cancer (PCa) gold-standard diagnosis relies on prostate biopsy, which is currently overly recommended since other available noninvasive tools such as prostate-specific antigen (PSA) multiparametric MRI (mMRI) showed low diagnostic accuracy or high costs, respectively. The aim of the study was to determine the accuracy of a novel Bioelectric Impedance Analysis (BIA) test endorectal probe for the selection of patients candidate to prostate biopsy and in particular the clinical value of three different parameters such as resistance (R), reactance (Xc), and phase angle (PA) degree. One-hundred twenty-three consecutive candidates to prostate biopsy and 40 healthy volunteers were enrolled. PSA and PSA density (PSAD) determinations, Digital Rectal Examination (DRE), and the novel BIA test were analyzed in patients and controls. A 16-core prostate biopsy was performed after a mMRI test. The study endpoints were to determine accuracy of BIA test in comparison with PSA, PSAD levels, and mMRI and obtain prostate cancer (PCa) prediction by BIA test. The Mann-Whitney <i>U</i>-test, the Wilkoxon rank test, and the Holm-Bonferroni's method were adopted for statistical analyses, and a computational approach was also applied to differentiate patients with PCa from those with benign disease. Combined PSA, PSAD, DRE, and trans-rectal ultrasound test failed to discern patients with PCa fr"
+ },
+ {
+  "avenue": "L5 planarian regeneration target",
+  "title": "The Role of Early Bioelectric Signals in the Regeneration of Planarian Anterior/Posterior Polarity.",
+  "authors": "Durant F, Bischof J, Fields C, Morokuma J, LaPalme J, Hoi A, Levin M.",
+  "year": "2019",
+  "journal": "Biophysical journal",
+  "doi": "10.1016/j.bpj.2019.01.029",
+  "pmcid": "PMC6401388",
+  "abstract": "Axial patterning during planarian regeneration relies on a transcriptional circuit that confers distinct positional information on the two ends of an amputated fragment. The earliest known elements of this system begin demarcating differences between anterior and posterior wounds by 6\u00a0h postamputation. However, it is still unknown what upstream events break the axial symmetry, allowing a mutual repressor system to establish invariant, distinct biochemical states at the anterior and posterior ends. Here, we show that bioelectric signaling at 3\u00a0h is crucial for the formation of proper anterior-posterior polarity in planaria. Briefly manipulating the endogenous bioelectric state by depolarizing the injured tissue during the first 3\u00a0h of regeneration alters gene expression by 6\u00a0h postamputation and leads to a double-headed phenotype upon regeneration despite confirmed washout of ionophores from tissue. These data reveal a primary functional role for resting membrane potential taking place within the first 3\u00a0h after injury and kick-starting the downstream pattern of events that elaborate anatomy over the following 10\u00a0days. We propose a simple model of molecular-genetic mechanisms to explain how physiological events taking place immediately after injury regulate the spatial distribution of downstream gene expression and anatomy of regenerating planaria."
+ },
+ {
+  "avenue": "L5 planarian regeneration target",
+  "title": "Bioelectric signaling regulates head and organ size during planarian regeneration.",
+  "authors": "Beane WS, Morokuma J, Lemire JM, Levin M.",
+  "year": "2013",
+  "journal": "Development (Cambridge, England)",
+  "doi": "10.1242/dev.086900",
+  "pmcid": "PMC3597208",
+  "abstract": "A main goal of regenerative medicine is to replace lost or damaged tissues and organs with functional parts of the correct size and shape. But the proliferation of new cells is not sufficient; we will also need to understand how the scale and ultimate form of newly produced tissues are determined. Using the planarian model system, we report that membrane voltage-dependent bioelectric signaling determines both head size and organ scaling during regeneration. RNA interference of the H(+),K(+)-ATPase ion pump results in membrane hyperpolarization, which has no effect on the amount of new tissue (blastema) that is regenerated yet produces regenerates with tiny 'shrunken' heads and proportionally oversized pharynges. Our data show that this disproportionality results from a lack of the apoptosis required to adjust head and organ size and placement, highlighting apoptotic remodeling as the link between bioelectric signaling and the establishment of organ size during regeneration."
+ },
+ {
+  "avenue": "L5 EZ water coherence",
+  "title": "Cryoprotectants and dynamics of exclusion zone water.",
+  "authors": "Theodorou A, Pomeisl K, Pokorn\u00fd J, Kratochv\u00edlov\u00e1 I.",
+  "year": "2026",
+  "journal": "Cryobiology",
+  "doi": "10.1016/j.cryobiol.2025.105566",
+  "pmcid": "",
+  "abstract": "Hydrophilic membranes are integral components in a wide range of applications, particularly in biological systems, where their negatively charged surfaces resemble those of cell membranes and influence processes such as cryopreservation. This study investigates the relationship between the Exclusion Zone (EZ) near a Nafion membrane and its response to thermal changes. In this context, the EZ denotes an extended interfacial water region adjacent to hydrophilic surface, characterized by physicochemical properties differing from those of bulk water. The present work investigates how cryoprotectants such as polyethylene glycols (PEGs) and trehalose affect the EZ near Nafion surfaces across a range of temperatures, aiming to identify potential links between interfacial hydration and cryoprotective efficiency. Our observations showed that PEG and trehalose exhibit distinct effects on the EZ behavior, with trehalose showing milder suppression of the EZ size compared to PEG at the same concentration. Fluorescent tracking of dansyl-labeled cryoprotectants demonstrated their distribution near the EZ, revealing differential long-range interactions of interfacial water with PEG and trehalose. Herein, we provide the first evidence linking cryoprotectant activity to the EZ behavior, suggesting a role in interfacial water stabilization under cooling, with implications for cryopreservation and"
+ },
+ {
+  "avenue": "L5 EZ water coherence",
+  "title": "Reconciling the Adsorbed Water Layer with the Exclusion Zone: A Magnetic Field Model",
+  "authors": "J N.",
+  "year": "2026",
+  "journal": "",
+  "doi": "10.20944/preprints202603.0336.v1",
+  "pmcid": "",
+  "abstract": "The relationship between the thin adsorbed water layer conventionally observed on hydrophilic surfaces and the much larger \"exclusion zone\" described in the literature has remained unclear. In this review, we survey the evidence for both phenomena and propose that they are intimately connected: the adsorbate constitutes a structurally distinct phase that generates a magnetic field, which in turn diamagnetically orders the surrounding water over much larger distances. This model reconciles the thin adsorbate with the much larger exclusion zone, and is consistent with available data, with broader implications for water\u2019s magnetic properties."
+ },
+ {
+  "avenue": "L5 EZ water coherence",
+  "title": "Exclusion-zone water inside and outside of plant xylem vessels.",
+  "authors": "Wang A, Pollack GH.",
+  "year": "2024",
+  "journal": "Scientific reports",
+  "doi": "10.1038/s41598-024-62983-3",
+  "pmcid": "PMC11130298",
+  "abstract": "The fourth phase of water has garnered increased attention within the scientific community due to its distinct properties that differentiate it from regular water. This unique state seems to arise potentially from a liquid crystalline structure, which has been observed near various hydrophilic surfaces to possess the capability of excluding microspheres. Consequently, it has been labeled as exclusion zone (EZ) water. When in contact with hydrophilic surfaces, water could exhibit the ability to form organized layers of EZ water. In this study, we investigated the quick buildup of EZ water exposed to xylem vessels of four vegetable plants: cabbage, celery, asparagus, and pumpkin. Among them, pumpkin vessels showed larger EZs, up to 240\u2009\u00b1\u200956\u00a0\u03bcm in width. The width of EZ water found near the xylem vessels of the other plants ranged from 133\u2009\u00b1\u200922 to 142\u2009\u00b1\u200920\u00a0\u03bcm. EZ water generally excludes a wide range of particles, including polystyrene microspheres with various surface modifications, as well as silica microspheres. This implies that the formation of EZ water is not an artificial result of using specific microsphere types but rather demonstrates EZ's ability to exclude particles regardless of their composition. Inside single xylem vessels of the pumpkin, we could observe the dynamics of EZ buildup, growing from the inside edge of the vessel toward the center. The relationship betwe"
+ },
+ {
+  "avenue": "L6 minimal cognition agency",
+  "title": "Fungal Memory and Minimal Cognition.",
+  "authors": "\u0160ekrst K.",
+  "year": "2026",
+  "journal": "Topics in cognitive science",
+  "doi": "10.1111/tops.70070",
+  "pmcid": "",
+  "abstract": "This paper argues that fungal mycelial networks exhibit minimal cognition through memory-integrated adaptive regulation. Drawing on cybernetic and enactivist frameworks, I develop a non-representational account of memory as the organism's capacity to modulate behavior based on temporally extended environmental coupling. I propose four operational criteria for minimal cognition: feedback-guided regulation of behavior, maintenance of internal viability conditions, structural modulation based on past environmental interactions, and plasticity across time scales that supports anticipatory adaptivity. Empirical evidence demonstrates that fungi meet all four criteria through distributed memory mechanisms: fungal networks exhibit directional regrowth toward previously encountered resources even after spatial displacement, stress priming persists across multiple cell divisions, Spitzenk\u00f6rper-mediated directional persistence in constrained environments, and transgenerational memory through spore imprinting. These findings challenge representationalist assumptions in cognitive science by showing that memory and cognition can emerge from morphodynamic, biochemical, and electrophysiological processes without necessary neural substrates or symbolic representations. Fungal cognition demonstrates that the organizational principles underlying cognition-feedback-driven adaptation, norm-preserva"
+ },
+ {
+  "avenue": "L6 minimal cognition agency",
+  "title": "The role of regulation in the origin and synthetic modelling of minimal cognition.",
+  "authors": "Bich L, Moreno A.",
+  "year": "2016",
+  "journal": "Bio Systems",
+  "doi": "10.1016/j.biosystems.2015.08.002",
+  "pmcid": "",
+  "abstract": "In this paper we address the question of minimal cognition by investigating the origin of some crucial cognitive properties from the very basic organisation of biological systems. More specifically, we propose a theoretical model of how a system can distinguish between specific features of its interaction with the environment, which is a fundamental requirement for the emergence of minimal forms of cognition. We argue that the appearance of this capacity is grounded in the molecular domain, and originates from basic mechanisms of biological regulation. In doing so, our aim is to provide a theoretical account that can also work as a possible conceptual bridge between Synthetic Biology and Artificial Intelligence. In fact, we argue, Synthetic Biology can contribute to the study of minimal cognition (and therefore to a minimal AI), by providing a privileged approach to the study of these mechanisms by means of artificial systems."
+ },
+ {
+  "avenue": "L6 minimal cognition agency",
+  "title": "Chemical basis for minimal cognition.",
+  "authors": "Hanczyc MM, Ikegami T.",
+  "year": "2010",
+  "journal": "Artificial life",
+  "doi": "10.1162/artl_a_00002",
+  "pmcid": "",
+  "abstract": "We have developed a simple chemical system capable of self-movement in order to study the physicochemical origins of movement. We propose how this system may be useful in the study of minimal perception and cognition. The system consists simply of an oil droplet in an aqueous environment. A chemical reaction within the oil droplet induces an instability, the symmetry of the oil droplet breaks, and the droplet begins to move through the aqueous phase. The complement of physical phenomena that is then generated indicates the presence of feedback cycles that, as will be argued, form the basis for self-regulation, homeostasis, and perhaps an extended form of autopoiesis. We discuss the result that simple chemical systems are capable of sensory-motor coupling and possess a homeodynamic state from which cognitive processes may emerge."
+ },
+ {
+  "avenue": "L7 IIT empirical test",
+  "title": "Filled/non-filled pairs: An empirical challenge to the integrated information theory of consciousness.",
+  "authors": "Hopkins AR, McQueen KJ.",
+  "year": "2022",
+  "journal": "Consciousness and cognition",
+  "doi": "10.1016/j.concog.2021.103245",
+  "pmcid": "",
+  "abstract": "Perceptual filling-in for vision is the insertion of visual properties (e.g., color, contour, luminance, or motion) into one's visual field, when those properties have no corresponding retinal input. This paper introduces and provides preliminary empirical support for filled/non-filled pairs, pairs of images that appear identical, yet differ by amount of filling-in. It is argued that such image pairs are important to the experimental testing of theories of consciousness. We review recent experimental research and conclude that filling-in involves brain activity with relatively high integrated information (\u03a6) compared to veridical visual perceptions. We then present filled/non-filled pairs as an empirical challenge to the integrated information theory of consciousness, which predicts that phenomenologically identical experiences depend on brain processes with identical \u03a6."
+ },
+ {
+  "avenue": "L7 IIT empirical test",
+  "title": "Filled/non-filled pairs: an empirical challenge to the integrated information theory of consciousness",
+  "authors": "Hopkins AR, McQueen KJ.",
+  "year": "2021",
+  "journal": "",
+  "doi": "10.31234/osf.io/59nxm",
+  "pmcid": "",
+  "abstract": "<p>Perceptual filling-in for vision is the insertion of visual properties (e.g., color, contour, luminance, or motion) into one\u2019s visual field, when those properties have no corresponding retinal input. This paper introduces and provides preliminary empirical support for filled/non-filled pairs, pairs of images that appear identical, yet differ by amount of filling-in. It is argued that such image pairs are important to the experimental testing of theories of consciousness. We review recent experimental research and conclude that filling-in involves brain activity with relatively high integrated information (Phi) compared to veridical visual perceptions. We then present filled/non-filled pairs as an empirical challenge to the integrated information theory of consciousness, which predicts that phenomenologically identical experiences depend on brain processes with identical Phi.</p>"
+ },
+ {
+  "avenue": "A1 slime mold anticipation v2",
+  "title": "Anticipation of periodic events influences cell motility in amoeba proteus.",
+  "authors": "Mueller SM, Martin S, Morawski M, Stieler J, Holzer M, Grunwald M.",
+  "year": "2026",
+  "journal": "Scientific reports",
+  "doi": "10.1038/s41598-026-37298-0",
+  "pmcid": "PMC12873120",
+  "abstract": "All migrating cells (both single-cell organisms and as part of multicellular organisms) sense environmental conditions and respond to physical and molecular cues by changing the direction and speed of cellular movement. Adaptive behaviors enable motile cells to thrive in dynamic environments. A study with slime mold suggested an ability to anticipate dry and cold periods. However, experimental evidence for anticipation in other single-cell organisms is lacking. Here, we investigated whether Amoeba proteus can anticipate unfavourable periodic stimuli. Amoeba proteus react to blue light (405\u00a0nm) by reducing their streaming speed in response to each stimulation. As expected, after four periodic blue light stimulations A. proteus presented spontaneous in-phase reduction in streaming speed at the time point when the next stimulation would have occurred. Our results corroborate the claim that single cells are able to anticipate periodic environmental cues and change their behaviour in anticipation of these cues. These findings may have implications for the interpretation of cellular processes in vitro and in vivo even in complex multicellular systems."
+ },
+ {
+  "avenue": "A1 slime mold anticipation v2",
+  "title": "Engineering Basal Cognition: Minimal Genetic Circuits for Habituation, Sensitization, and Massed-Spaced Learning.",
+  "authors": "Pla-Mauri J, Sol\u00e9 R.",
+  "year": "2026",
+  "journal": "ACS synthetic biology",
+  "doi": "10.1021/acssynbio.5c00766",
+  "pmcid": "PMC12930500",
+  "abstract": "Cognition is often associated with complex brains, yet many forms of learning\u2500such as habituation, sensitization, and even spacing effects\u2500have been observed in single cells and aneural organisms. These simple cognitive abilities, despite their cost, offer evolutionary advantages by allowing organisms to reduce environmental uncertainty and improve survival. Recent studies have confirmed early claims of learning-like behavior in protists and slime molds, pointing to the presence of basal cognitive functions long before the emergence of nervous systems. In this work, we adopt a synthetic biology approach to explore how minimal genetic circuits can implement nonassociative learning in unicellular systems. Building on theoretical models and using well-characterized regulatory elements, we design and simulate synthetic circuits capable of reproducing habituation, sensitization, and the massed-spaced learning effect. Our designs incorporate activators, repressors, fluorescent reporters, and quorum-sensing molecules, offering a platform for experimental validation. By examining the structural and dynamical constraints of these circuits, we highlight the distinct temporal dynamics of gene-based learning systems compared to neural counterparts and provide insights into the evolutionary and engineering challenges of building synthetic cognitive behavior at the cellular level."
+ },
+ {
+  "avenue": "A1 slime mold anticipation v2",
+  "title": "A minimal model of cognition based on oscillatory and current-based reinforcement processes.",
+  "authors": "Gyllingberg L, Tian Y, Sumpter DJT.",
+  "year": "2025",
+  "journal": "Journal of the Royal Society, Interface",
+  "doi": "10.1098/rsif.2024.0402",
+  "pmcid": "PMC11750385",
+  "abstract": "Building mathematical models of brains is difficult because of the sheer complexity of the problem. One potential starting point is basal cognition, which gives an abstract representation of a range of organisms without central nervous systems, including fungi, slime moulds and bacteria. We propose one such model, demonstrating how a combination of oscillatory and current-based reinforcement processes can be used to couple resources in an efficient manner, mimicking the way these organisms function. A key ingredient in our model, not found in previous basal cognition models, is that we explicitly model oscillations in the number of particles (i.e. the nutrients, chemical signals or similar, which make up the biological system) and the flow of these particles within the modelled organisms. Using this approach, our model builds efficient solutions, provided the environmental oscillations are sufficiently out of phase. We further demonstrate that amplitude differences can promote efficient solutions and that the system is robust to frequency differences. In the context of these findings, we discuss connections between our model and basal cognition in biological systems and slime moulds, in particular, how oscillations might contribute to self-organized problem-solving by these organisms."
+ },
+ {
+  "avenue": "L1 thermal time Rovelli",
+  "title": "Time-consciousness in computational phenomenology: a temporal analysis of active inference.",
+  "authors": "Bogot\u00e1 JD, Djebbara Z.",
+  "year": "2023",
+  "journal": "Neuroscience of consciousness",
+  "doi": "10.1093/nc/niad004",
+  "pmcid": "PMC10022603",
+  "abstract": "Time plays a significant role in science and everyday life. Despite being experienced as a continuous flow, computational models of consciousness are typically restricted to a sequential temporal structure. This difference poses a serious challenge for computational phenomenology-a novel field combining phenomenology and computational modelling. By analysing the temporal structure of the active inference framework, we show that an integrated continuity of time can be achieved by merging Husserlian temporality with a sequential order of time. We also show that a Markov blanket of the present moment integrates past and future moments of both subjective temporality and objective time in an asynchronous manner. By applying the integrated continuity, it is clear that active inference makes use of both subjective temporality and objective time in an integrated fashion. We conclude that active inference, on a temporal note, qualifies as a computational model for phenomenological investigations."
+ },
+ {
+  "avenue": "L1 thermal time Rovelli",
+  "title": "Loop Quantum Gravity.",
+  "authors": "Rovelli C.",
+  "year": "1998",
+  "journal": "Living reviews in relativity",
+  "doi": "10.12942/lrr-1998-1",
+  "pmcid": "PMC5567241",
+  "abstract": "The problem of finding the quantum theory of the gravitational field, and thus understanding what is quantum spacetime, is still open. One of the most active of the current approaches is loop quantum gravity. Loop quantum gravity is a mathematically well-defined, non-perturbative and background independent quantization of general relativity, with its conventional matter couplings. Research in loop quantum gravity today forms a vast area, ranging from mathematical foundations to physical applications. Among the most significant results obtained are: (i)The computation of the physical spectra of geometrical quantities such as area and volume, which yields quantitative predictions on Planck-scale physics.(ii)A derivation of the Bekenstein-Hawking black hole entropy formula.(iii)An intriguing physical picture of the microstructure of quantum physical space, characterized by a polymer-like Planck scale discreteness. This discreteness emerges naturally from the quantum theory and provides a mathematically well-defined realization of Wheeler's intuition of a spacetime \"foam\". Long standing open problems within the approach (lack of a scalar product, over-completeness of the loop basis, implementation of reality conditions) have been fully solved. The weak part of the approach is the treatment of the dynamics: at present there exist several proposals, which are intensely debated. Here,"
+ },
+ {
+  "avenue": "L3 spontaneous collapse test",
+  "title": "A Philosophical Analysis of Non-Markovian Collapse Models.",
+  "authors": "Mariani C.",
+  "year": "2026",
+  "journal": "Journal for general philosophy of science = Zeitschrift fur allgemeine Wissenschaftstheorie",
+  "doi": "10.1007/s10838-025-09725-9",
+  "pmcid": "PMC13265578",
+  "abstract": "Spontaneous collapse models (SCM) employ an imaginary noise term in the modification of Schr\u00f6dinger's equation in order to achieve a stochastic collapse process. Such noise term is typically assumed to be white, and therefore uncorrelated in time, which results in the dynamics being Markovian. In the first part of this paper I discuss the reasons why physicists are exploring the possibility to instead employ non-white stochastic noise terms in the dynamics of SCM, and I then briefly introduce these models. In the second part, my aim is to provide an evaluation of the major conceptual and philosophical consequences of the generalised collapse models with colored noise. In particular, I will focus on the broad class of implications having to do with the non-Markovian nature of the dynamics, with its resulting temporal non-locality, and on the possibility to consider the noise field as a real physical entity."
+ },
+ {
+  "avenue": "L3 spontaneous collapse test",
+  "title": "Long-term outcomes of drusenoid retinal pigment epithelium detachment in eyes with age-related macular degeneration.",
+  "authors": "Karabulut S, Kaderli ST, Karalezli A.",
+  "year": "2025",
+  "journal": "Indian journal of ophthalmology",
+  "doi": "10.4103/ijo.ijo_1966_24",
+  "pmcid": "PMC12178363",
+  "abstract": "<h4>Purpose</h4>We aim to evaluate the changes in the size of drusens and drusenoid pigment epithelial detachments (PED) in patients with age-related macular degeneration.<h4>Design</h4>This study was designed as an observational retrospective cohort study.<h4>Methods</h4>We evaluated eyes with drusenoid PED tracked using spectral-domain and enhanced depth imaging optical coherence tomography. The cases were classified according to the follow-up visits and divided into two groups as eyes with collapsed PED and persisting PED. The best-corrected visual acuity (BCVA), size of drusens and PED, central macular thickness (CMT), and subfoveal choroidal thickness (SCT) were recorded.<h4>Results</h4>We included 11 patients' 22 eyes with drusenoid PED. In the final comparison, the mean CMT, SCT, and BCVA were significantly lower in Group 1 compared to Group 2 (P = 0.05; P = 0.05; P = 0.002, respectively). The mean CMT, SCT, and BCVA were significantly decreased from baseline to the last visit in Group 1 (P = 0.013; P < 0.001; P = 0.001, respectively). No significant changes were observed regarding the mean CMT, SCT, and BCVA in Group 2 during the follow-up visits. (P = 0.317, P = 0.682, P = 0.056).<h4>Conclusion</h4>Spontaneous collapse of drusenoid PED is associated with poor visual outcome."
+ },
+ {
+  "avenue": "L3 spontaneous collapse test",
+  "title": "Spontaneous collapse as a prognostic marker for human blastocysts: a systematic review and meta-analysis.",
+  "authors": "Bickendorf K, Qi F, Peirce K, Natalwala J, Chapple V, Liu Y.",
+  "year": "2023",
+  "journal": "Human reproduction (Oxford, England)",
+  "doi": "10.1093/humrep/dead166",
+  "pmcid": "PMC10546075",
+  "abstract": "<h4>Study question</h4>Is spontaneous collapse (SC) by human blastocysts a prognostic factor in IVF treatment?<h4>Summary answer</h4>SC in human blastocyst is associated with reduced euploid embryo and pregnancy rates.<h4>What is known already</h4>SC of the human blastocyst is a phenomenon that was revealed relatively recently following the clinical application of time-lapse monitoring in IVF laboratories. The ploidy and clinical prognosis of affected blastocysts are still poorly understood, with inconsistent reports. Systematic reviews and meta-analyses on this topic are currently absent in the literature but its potential as a marker of embryo viability holds great clinical value. In this study, we aimed to comprehensively evaluate the potential of SC as a prognostic factor in regard to ploidy status, and pregnancy, live birth and miscarriage rates.<h4>Study design, size, duration</h4>A systematic review and meta-analysis were performed according to PRISMA guidelines, with a protocol registered with PROSPERO (CRD42022373749). A search of MEDLINE, EMBASE, and the Cochrane Library for relevant studies was carried out on 10 October 2022, using key words relevant to 'blastocyst collapse' and 'time-lapse imaging'.<h4>Participants/materials, setting, methods</h4>Two independent reviewers systematically screened and evaluated each study in terms of participants, exposure, comparator"
+ },
+ {
+  "avenue": "L3 quantum measurement consciousness",
+  "title": "Quantum-Inspired and Non-Classical Approaches to Consciousness: Models, Evidence and Constraints.",
+  "authors": "Arias-Carri\u00f3n O, Ortega-Robles E, Manjarrez E.",
+  "year": "2026",
+  "journal": "Brain sciences",
+  "doi": "10.3390/brainsci16040386",
+  "pmcid": "PMC13114211",
+  "abstract": "Consciousness presents a structural puzzle: a unified, context-sensitive, globally integrated mode of experience emerging from distributed neural dynamics. While classical neuroscience has mapped synaptic, oscillatory, and network-level mechanisms with increasing precision, debate persists as to whether classical formalisms fully capture the integrative and contextual features of conscious processing. This review examines whether quantum principles offer explanatory leverage in two distinct senses: as formal mathematical frameworks for modeling contextual cognition, and as mechanistic hypotheses proposing biologically instantiated non-classical states. We surveyed empirical and theoretical developments spanning zero-quantum-coherence in MRI signals, entanglement-structured learning paradigms, quantum-inspired computational models, and proposed neural substrates, including microtubules, nuclear spins, and photonic architectures. Although certain findings have been interpreted as consistent with a non-classical structure, no study to date has demonstrated entanglement, long-lived coherence, or collapse dynamics in neural tissue under operational criteria comparable to those used in controlled quantum systems. Replication remains limited, biological entanglement witnesses are not yet established, and nonlinear classical dynamics can reproduce many putative quantum signatures. Acco"
+ },
+ {
+  "avenue": "L3 quantum measurement consciousness",
+  "title": "The theory of psychic quanta: a quantum model for the unity of individual consciousness.",
+  "authors": "Tallarico A.",
+  "year": "2026",
+  "journal": "Frontiers in psychology",
+  "doi": "10.3389/fpsyg.2026.1792921",
+  "pmcid": "PMC13235342",
+  "abstract": "The Theory of Psychic Quanta (TPQ) postulates the existence of a universal non-local psychic field whose quantized excitations-termed <i>informational quanta (analogous to qubits)</i>-anchor to coherent brain systems to generate individual consciousness as a phenomenological unit. According to this model, the brain does not produce consciousness in an emergentist sense; rather, it acts as a bidirectional biophysical interface that stabilizes the informational quantum without generating it. This reciprocal interaction maintains experiential coherence from biological birth until the cessation of brain activity, at which point the quantum disanchors and reintegrates into the diffuse psychic field. TPQ incorporates <i>temporal dynamics where subjective time emerges from quanta superposition collapse</i>, unifying linear neural processing with atemporal field states. This model integrates recent updates to contemporary informational panpsychism, the Orchestrated Objective Reduction (Orch-OR) theory and Integrated Information Theory (IIT), predicting specific neurophilosophical correlates such as gamma synchronization (40-100\u202fHz) and inter-individual affective resonance. <i>Predictions include EEG protocols for NDE gamma surges and past-life memory imprints in children.</i> The theoretical implications include reinterpretation of psychological wellbeing as maximum phase coherence bet"
+ },
+ {
+  "avenue": "L3 quantum measurement consciousness",
+  "title": "Conscious simultaneity with continuous motion: a measure-theoretic resolution of the hard problem.",
+  "authors": "Sanfey J.",
+  "year": "2026",
+  "journal": "Frontiers in human neuroscience",
+  "doi": "10.3389/fnhum.2026.1809939",
+  "pmcid": "PMC13229847",
+  "abstract": "This paper addresses the problem of integrating phenomenal consciousness with physical laws by seeking to identify and define its function. The central claim is that the hard problem is caused by the same epistemic paradox that makes quantum and classical physics mutually incompatible: the <i>measure-theoretic limit</i>. It is logically impossible to explain the mechanism by which state transitions occur within continuous time except by using approximations, because the mathematics requires point-equivalent instants of zero duration, which cannot exist ontologically when time is continuous. Classical and quantum physics use mutually incompatible frameworks to model causality and overcome this <i>dt\u21920</i> limit. It is argued here that consciousness functions as an ontological workaround for this and all problems related to temporally extended information in continuous time, including sensory qualia. The <i>temporal uncertainty principle</i> (TUP) defines consciousness as a superposition of two contradictory temporal perspectives, synchronous and diachronic, within a single \"now\". These perspectives interact recursively to reduce uncertainty to a point where further reduction is logically and physically impossible. This mechanism prevents computational paralysis when the system confronts unresolvable causal boundaries, and enables the generation of novel concepts and adaptive beh"
+ },
+ {
+  "avenue": "L7 attention precision Friston",
+  "title": "From self-organizing systems to subjective temporal extension.",
+  "authors": "Bellingrath JE.",
+  "year": "2026",
+  "journal": "Neuroscience of consciousness",
+  "doi": "10.1093/nc/niag018",
+  "pmcid": "PMC13232630",
+  "abstract": "The self-simulational theory of temporal extension (SST) describes an information-theoretically formalized mechanism by which the \"width\" of subjective temporality emerges from the architecture of self-modeling. In this paper, the perspective of the free energy principle will be assumed to cast the emergence of subjective temporal extension from first principles of the physics of self-organization and to formalize subjective temporal extension using information geometry. Using active inference, a deep parametric generative model of temporal inference is simulated, which realizes the described dynamics on a computational level. Two \"biases\" (i.e. variations) of time-perception emerge naturally from the simulated computational model. This concerns the intentional binding effect (i.e. the compression of the temporal interval between voluntarily initiated actions and subsequent sensory consequences) and empirically documented alterations of subjective time experience in deep states of meditative absorption (i.e. in minimal phenomenal experience). Generally, numerous systematic and domain-specific alterations of subjective temporal experience are computationally explained in a unified manner, as enabled by integration with current active inference accounts mapping onto the respective domains. This concerns, next to more general attentional and central tendency effects, the temporali"
+ },
+ {
+  "avenue": "L7 attention precision Friston",
+  "title": "The dysconnection hypothesis of schizophrenia: a 30-year update.",
+  "authors": "Friston K.",
+  "year": "2026",
+  "journal": "World psychiatry : official journal of the World Psychiatric Association (WPA)",
+  "doi": "10.1002/wps.70042",
+  "pmcid": "PMC13176865",
+  "abstract": ""
+ },
+ {
+  "avenue": "L7 attention precision Friston",
+  "title": "Learning to attenuate myself: a predictive processing account of body-scan meditation and the dissolution of bodily boundaries.",
+  "authors": "Becattini V, Lifshitz M, Miller M.",
+  "year": "2026",
+  "journal": "Neuroscience of consciousness",
+  "doi": "10.1093/nc/niag001",
+  "pmcid": "PMC12919446",
+  "abstract": "Meditation practices often involve sustaining attention on the body. Typically, attention is understood to enhance both neural resource allocation and the subjective salience of the attended target. However, in deep meditative states, practitioners sometimes report a dissolution of bodily boundaries, a phenomenon known in Pali as bha[Formula: see text]ga. This presents a paradox: why does focused attention, which typically heightens sensory perception, instead lead to its dissolution? This article addresses this apparent contradiction by integrating computational, phenomenological, and empirical perspectives on attention, interoception, and meditation. We focus on the body-scan technique, as practiced in Theravada Buddhist traditions, and its powerful capacity to produce experiences of the dissolution of bodily boundaries. Working within the predictive processing framework, we propose that this \"dissolution\" of bodily boundaries results from the body-scan's impact on attentional processes. We argue that by optimizing low-level predictions over somatosensory signals, the body-scan effectively attenuates these signals, thereby diminishing perception of the body's boundaries. In support of this claim, we first describe the body-scan technique and its phenomenological outcomes. We then introduce key concepts from the predictive processing framework and provide a detailed analysis o"
+ },
+ {
+  "avenue": "L8 orchestration state threshold",
+  "title": "Genomics, convergent neuroscience and progress in understanding autism spectrum disorder.",
+  "authors": "Willsey HR, Willsey AJ, Wang B, State MW.",
+  "year": "2022",
+  "journal": "Nature reviews. Neuroscience",
+  "doi": "10.1038/s41583-022-00576-7",
+  "pmcid": "PMC10693992",
+  "abstract": "More than a hundred genes have been identified that, when disrupted, impart large risk for autism spectrum disorder (ASD). Current knowledge about the encoded proteins - although incomplete - points to a very wide range of developmentally dynamic and diverse biological processes. Moreover, the core symptoms of ASD involve distinctly human characteristics, presenting challenges to interpreting evolutionarily distant model systems. Indeed, despite a decade of striking progress in gene discovery, an actionable understanding of pathobiology remains elusive. Increasingly, convergent neuroscience approaches have been recognized as an important complement to traditional uses of genetics to illuminate the biology of human disorders. These methods seek to identify intersection among molecular-level, cellular-level and circuit-level functions across multiple risk genes and have highlighted developing excitatory neurons in the human mid-gestational prefrontal cortex as an important pathobiological nexus in ASD. In addition, neurogenesis, chromatin modification and synaptic function have emerged as key potential mediators of genetic vulnerability. The continued expansion of foundational 'omics' data sets, the application of higher-throughput model systems and incorporating developmental trajectories and sex differences into future analyses will refine and extend these results. Ultimately, "
+ },
+ {
+  "avenue": "L8 orchestration state threshold",
+  "title": "Lost in Translation: Traversing the Complex Path from Genomics to Therapeutics in Autism Spectrum Disorder.",
+  "authors": "Sestan N, State MW.",
+  "year": "2018",
+  "journal": "Neuron",
+  "doi": "10.1016/j.neuron.2018.10.015",
+  "pmcid": "PMC6989093",
+  "abstract": "Recent progress in the genomics of non-syndromic autism spectrum disorder (nsASD) highlights rare, large-effect, germline, heterozygous de novo coding mutations. This distinguishes nsASD from later-onset psychiatric disorders where gene discovery efforts have predominantly yielded common alleles of small effect. These differences point to distinctive opportunities for clarifying the neurobiology of nsASD and developing novel treatments. We argue that the path ahead also presents key challenges, including distinguishing human pathophysiology from the potentially pleiotropic neurobiology mediated by established risk genes. We present our view of some of the conceptual limitations of traditional studies of model organisms, suggest a strategy focused on investigating the convergence of multiple nsASD genes, and propose that the detailed characterization of the molecular and cellular landscapes of developing human brain is essential to illuminate disease mechanisms. Finally, we address how recent advances are leading to novel strategies for therapeutics that target various points along the path from genes to behavior."
+ },
+ {
+  "avenue": "L8 orchestration state threshold",
+  "title": "UEG Week 2020 Poster Presentations.",
+  "authors": "",
+  "year": "2020",
+  "journal": "United European gastroenterology journal",
+  "doi": "10.1177/2050640620927345",
+  "pmcid": "PMC8939488",
+  "abstract": ""
+ },
+ {
+  "avenue": "plant sound response v2",
+  "title": "Plants as silent teachers: bridging plant biology, human physiology, and eastern traditional practices through molecular insights.",
+  "authors": "Sharma A, Pratap T, Dalal K.",
+  "year": "2026",
+  "journal": "Plant signaling & behavior",
+  "doi": "10.1080/15592324.2026.2654822",
+  "pmcid": "PMC13048587",
+  "abstract": "Plants lack a centralized nervous system, yet they exhibit sophisticated capacities for environmental perception, communication, stress adaptation, and forms of physiological memory. Increasing experimental evidence indicates that many of the molecular mechanisms underlying these processes-such as reactive oxygen species (ROS) signalling, calcium fluxes (Ca<sup>2+</sup>), nitric oxide (NO) pathways, mitogen-activated protein kinase (MAPK) cascades, and epigenetic regulation-are conserved across biological kingdoms. In this perspective article, we examine how plant systems, particularly <i>Arabidopsis thaliana</i>, may serve as experimentally tractable models for investigating conserved stress-related signalling processes that also operate in human physiology. We further review evidence for plant communication through volatile organic compounds, acoustic vibrations, bioelectrical signalling, and mechanical cues, highlighting mechanistic parallels in signal perception and response integration. Building on these shared molecular nodes, we cautiously explore whether plant-based experimental platforms could be used to test environmental variables-such as sound exposure, rhythmic mechanical stimulation, and oxygen-related modulation-that are also relevant to certain contemplative or lifestyle practices. This framework is hypothesis-generating rather than confirmatory and warrants fur"
+ },
+ {
+  "avenue": "plant sound response v2",
+  "title": "Evolution Under Pressure: Navigating Adaptation from Deep Time to the Anthropocene.",
+  "authors": "Pagano M, Del Prete S.",
+  "year": "2026",
+  "journal": "Biology",
+  "doi": "10.3390/biology15110888",
+  "pmcid": "PMC13255575",
+  "abstract": "Environmental stress has always represented one of the most powerful evolutionary forces determining biological diversity [...]."
+ },
+ {
+  "avenue": "plant sound response v2",
+  "title": "Influence of sound vibrations on plant holobionts: physiological pathways linking root function and rhizospheric microbial interactions.",
+  "authors": "Naeem HK, Comparini D, Bighignoli B, Mozzo G, Yamashita F, Renna L, Stefano G, Mancuso S, Masi E.",
+  "year": "2026",
+  "journal": "Plant signaling & behavior",
+  "doi": "10.1080/15592324.2026.2659424",
+  "pmcid": "PMC13085944",
+  "abstract": "Climate change increasingly threatens plant productivity and ecosystem stability, highlighting the need for sustainable strategies that enhance plant resilience. The plant holobiont-comprising the plant and its associated rhizospheric microbiota-has emerged as a key functional unit governing plant performance under environmental stress. Among emerging non-invasive approaches, sound and vibration stimuli have been reported to influence plant growth, stress responses, and microbial activity; however, the physiological mechanisms underlying these effects remain poorly defined. This review synthesizes current evidence on sound-induced plant and microbial responses within a holobiont framework and advances a physiology-driven conceptual model linking acoustic stimuli to root function and rhizospheric processes. We propose that sound vibrations act primarily as mechanical cues perceived by plant tissues through mechanotransduction pathways, triggering calcium and hormonal signaling that modulate root architecture, metabolism, and exudation patterns. These root-level physiological changes are hypothesized to indirectly shape rhizospheric microbial community assembly and function, thereby influencing nutrient acquisition, stress tolerance, and agronomic performance. By explicitly connecting sound perception, root functional traits, and plant-mediated microbial responses, this review mo"
+ },
+ {
+  "avenue": "L5 bioelectric cancer cognition",
+  "title": "Consciousness emerges from temporal integration across biological scales: from cellular memory to phenomenological experience.",
+  "authors": "Parra AL.",
+  "year": "2026",
+  "journal": "Frontiers in integrative neuroscience",
+  "doi": "10.3389/fnint.2026.1772467",
+  "pmcid": "PMC13201435",
+  "abstract": "Consciousness remains one of the central challenges in contemporary neuroscience, in part due to the absence of an explicit framework describing the temporal constraints required for integrative processing. While influential models such as Integrated Information Theory and the Free Energy Principle characterize structural and functional aspects of conscious systems, they remain largely agnostic regarding the minimum temporal windows necessary for information to become phenomenologically accessible. We propose that temporal integration constitutes a biologically invariant constraint operating across multiple organizational scales. Drawing on recent experimental evidence of memory formation in non-neuronal cells, we introduce the concept of a minimal bioelectrical/biochemical temporal window (\u0394T_b) governing cellular information consolidation. We propose that this foundational temporal constraint may contribute to organismic basal coherence (\u03b3) through bioelectric and autonomic mechanisms, which in turn modulate higher-order perceptual and phenomenological integration. Within the Emergent Flow Theory framework, classical findings from the Libet paradigm are reinterpreted not as evidence against agency, but as reflecting necessary delays associated with multilevel temporal integration. By linking cellular memory, bioelectric signaling, vagal-autonomic regulation, and cortical dyna"
+ },
+ {
+  "avenue": "L5 bioelectric cancer cognition",
+  "title": "De-anthropomorphizing the mind: life as a cognitive spectrum in a unified framework for biological minds.",
+  "authors": "Dodig-Crnkovic G.",
+  "year": "2026",
+  "journal": "Frontiers in systems neuroscience",
+  "doi": "10.3389/fnsys.2026.1730097",
+  "pmcid": "PMC12872758",
+  "abstract": "Cognition, sentience, intelligence, awareness, and mind are often treated as distinct phenomena that emerge only at higher levels of biological organization, typically associated with nervous systems or human cognition. However, empirical research increasingly demonstrates learning, memory, adaptive behavior, and goal-directed regulation across a wide range of living systems, including single cells, tissues, and organisms without brains. This paper proposes a unifying framework in which cognition is understood as an organizational property of living systems, grounded in information embodied in their physical structures and in their ongoing interactions with the environment. Within this info-computational (ICON) perspective, living systems engage in behavior, learning, and anticipation by dynamically transforming embodied information through distributed, physically realized processes that support viability and self-maintenance. These processes are present from the onset of life and become progressively more integrated and temporally extended with increasing biological organization. The framework provides explanatory continuity across biological scales and clarifies how complex forms of cognition, awareness, and mind arise as elaborations of basic life-regulatory dynamics. It generates empirically grounded, testable implications for basal cognition, developmental biology, and emb"
+ },
+ {
+  "avenue": "L5 bioelectric cancer cognition",
+  "title": "Mind Everywhere: A Framework for Conceptualizing Goal-Directedness in Biology and Other Domains-Part One.",
+  "authors": "Levin M, Resnik DB.",
+  "year": "2026",
+  "journal": "Biological theory",
+  "doi": "10.1007/s13752-025-00523-6",
+  "pmcid": "PMC13197194",
+  "abstract": "What makes a system-evolved, engineered, or hybrid-describable by teleological and mentalistic terms such as intelligent, goal-directed, cognitive, and intentional? In this two-part article, we review classical thought on teleology in the life sciences and defend a new approach to goal-directedness that stems from an emerging field-diverse intelligence. This field seeks to characterize what all active agents, regardless of their composition or provenance, have in common. Our approach emphasizes: (1) empirical testability (not philosophical commitments to linguistic categories), (2) fecundity in discovery of new capabilities (not just reductive mechanistic explanations of results after they are made, but worldviews that facilitate and enable novel research), (3) operationalization of terminology by reference to conceptual and empirical toolkits shown to be effective for a given system (cognitive and teleological claims are really hypotheses of optimal interaction protocols), and (4) continuity of human goal-directedness with our unicellular origins (which implies a need for models of scaling of cognition). In Part One, we review historical and contemporary debates about teleology in biology and describe some ground-breaking experimental results from morphogenesis, synthetic biology, and other areas of research involving the coordination of cellular behavior by means of bioelectr"
+ },
+ {
+  "avenue": "L5 Levin bioelectric learning",
+  "title": "Consciousness emerges from temporal integration across biological scales: from cellular memory to phenomenological experience.",
+  "authors": "Parra AL.",
+  "year": "2026",
+  "journal": "Frontiers in integrative neuroscience",
+  "doi": "10.3389/fnint.2026.1772467",
+  "pmcid": "PMC13201435",
+  "abstract": "Consciousness remains one of the central challenges in contemporary neuroscience, in part due to the absence of an explicit framework describing the temporal constraints required for integrative processing. While influential models such as Integrated Information Theory and the Free Energy Principle characterize structural and functional aspects of conscious systems, they remain largely agnostic regarding the minimum temporal windows necessary for information to become phenomenologically accessible. We propose that temporal integration constitutes a biologically invariant constraint operating across multiple organizational scales. Drawing on recent experimental evidence of memory formation in non-neuronal cells, we introduce the concept of a minimal bioelectrical/biochemical temporal window (\u0394T_b) governing cellular information consolidation. We propose that this foundational temporal constraint may contribute to organismic basal coherence (\u03b3) through bioelectric and autonomic mechanisms, which in turn modulate higher-order perceptual and phenomenological integration. Within the Emergent Flow Theory framework, classical findings from the Libet paradigm are reinterpreted not as evidence against agency, but as reflecting necessary delays associated with multilevel temporal integration. By linking cellular memory, bioelectric signaling, vagal-autonomic regulation, and cortical dyna"
+ },
+ {
+  "avenue": "L5 Levin bioelectric learning",
+  "title": "De-anthropomorphizing the mind: life as a cognitive spectrum in a unified framework for biological minds.",
+  "authors": "Dodig-Crnkovic G.",
+  "year": "2026",
+  "journal": "Frontiers in systems neuroscience",
+  "doi": "10.3389/fnsys.2026.1730097",
+  "pmcid": "PMC12872758",
+  "abstract": "Cognition, sentience, intelligence, awareness, and mind are often treated as distinct phenomena that emerge only at higher levels of biological organization, typically associated with nervous systems or human cognition. However, empirical research increasingly demonstrates learning, memory, adaptive behavior, and goal-directed regulation across a wide range of living systems, including single cells, tissues, and organisms without brains. This paper proposes a unifying framework in which cognition is understood as an organizational property of living systems, grounded in information embodied in their physical structures and in their ongoing interactions with the environment. Within this info-computational (ICON) perspective, living systems engage in behavior, learning, and anticipation by dynamically transforming embodied information through distributed, physically realized processes that support viability and self-maintenance. These processes are present from the onset of life and become progressively more integrated and temporally extended with increasing biological organization. The framework provides explanatory continuity across biological scales and clarifies how complex forms of cognition, awareness, and mind arise as elaborations of basic life-regulatory dynamics. It generates empirically grounded, testable implications for basal cognition, developmental biology, and emb"
+ },
+ {
+  "avenue": "L5 Levin bioelectric learning",
+  "title": "Mind Everywhere: A Framework for Conceptualizing Goal-Directedness in Biology and Other Domains-Part One.",
+  "authors": "Levin M, Resnik DB.",
+  "year": "2026",
+  "journal": "Biological theory",
+  "doi": "10.1007/s13752-025-00523-6",
+  "pmcid": "PMC13197194",
+  "abstract": "What makes a system-evolved, engineered, or hybrid-describable by teleological and mentalistic terms such as intelligent, goal-directed, cognitive, and intentional? In this two-part article, we review classical thought on teleology in the life sciences and defend a new approach to goal-directedness that stems from an emerging field-diverse intelligence. This field seeks to characterize what all active agents, regardless of their composition or provenance, have in common. Our approach emphasizes: (1) empirical testability (not philosophical commitments to linguistic categories), (2) fecundity in discovery of new capabilities (not just reductive mechanistic explanations of results after they are made, but worldviews that facilitate and enable novel research), (3) operationalization of terminology by reference to conceptual and empirical toolkits shown to be effective for a given system (cognitive and teleological claims are really hypotheses of optimal interaction protocols), and (4) continuity of human goal-directedness with our unicellular origins (which implies a need for models of scaling of cognition). In Part One, we review historical and contemporary debates about teleology in biology and describe some ground-breaking experimental results from morphogenesis, synthetic biology, and other areas of research involving the coordination of cellular behavior by means of bioelectr"
+ },
+ {
+  "avenue": "L2 causal set test",
+  "title": "Causality-Guided Machine Learning for Retinoblastoma Survival Prediction: Development and Comparative Evaluation Using SEER.",
+  "authors": "Chen S, Ishida T.",
+  "year": "2026",
+  "journal": "Medical sciences (Basel, Switzerland)",
+  "doi": "10.3390/medsci14030389",
+  "pmcid": "",
+  "abstract": "<b>Background</b>: Retinoblastoma (RB) is a rare pediatric malignancy characterized by small sample sizes and low event rates, where conventional association-driven feature selection may lead to unstable models, overadjustment, and limited generalizability. However, existing survival prediction studies lack a careful treatment of feature selection that accounts for underlying causal structure. <b>Objectives</b>: To develop and validate a causality-guided machine learning model for RB survival prediction by jointly incorporating survival time and survival status as outcome variables. <b>Methods</b>: We analyzed 1015 RB patients from the SEER database (1975-2020). A causality-informed feature selection framework was developed to address the challenges of rare-disease data. Specifically, candidate variables were evaluated through a three-step evidence-integration process: (1) univariate Cox proportional hazards (CPH) analysis for initial statistical screening; (2) causal structure learning using the PC algorithm on the variables retained from Step 1 to construct a directed acyclic graph (DAG) and exclude structurally inappropriate variables (colliders or descendants of the outcome); and (3) LASSO-based feature screening performed independently on the full set of candidate variables. The final features were obtained by taking the intersection of the variables retained from Step 2 a"
+ },
+ {
+  "avenue": "L2 causal set test",
+  "title": "Explaining hidden mechanisms: a generative model for causal graphs with nonlinear latent factors.",
+  "authors": "Maruhashi K, Park H, Yamaguchi R, Miyano S.",
+  "year": "2026",
+  "journal": "Frontiers in artificial intelligence",
+  "doi": "10.3389/frai.2026.1800791",
+  "pmcid": "PMC13219030",
+  "abstract": "Biomedical data analysis can now recover large families of condition-specific causal graphs, yet these results are often too complex for humans to interpret mechanistically. To address this challenge, we adopt a generative perspective, we address this challenge by formulating a structural-equation-based generative model in which each observed graph is generated from a small number of latent causal mechanisms under a bidirectional causal-consistency constraint linking latent and observed causal effects. Building on this formulation, we propose Truncated Reconstruction based Interpretable Prediction (TRIP), an inference method that estimates shared latent mechanisms from observed causal graphs and condition indicators in a way that preserves interpretability across abstraction levels by learning an orthonormal projection and jointly optimizing a prediction loss and a graph-reconstruction loss. TRIP can be viewed as a supervised low-dimensional projection of graph families that makes latent mechanisms directly interpretable in terms of observed causal effects, while preserving both structural and predictive information. We validate the method on synthetic benchmarks, including a spiral-in-noise stress test, and on EMT-related gene regulatory networks derived from cancer cell-line gene expression data. Across these experiments, TRIP recovers nonlinear latent mechanisms, improves pr"
+ },
+ {
+  "avenue": "L2 causal set test",
+  "title": "Genome-wide fine-mapping improves identification of causal variants.",
+  "authors": "Wu Y, Zheng Z, Thibaut L, Lin T, Feng Q, Cheng H, Yengo L, Goddard ME, Wray NR, Visscher PM, Zeng J.",
+  "year": "2026",
+  "journal": "Nature genetics",
+  "doi": "10.1038/s41588-026-02549-3",
+  "pmcid": "PMC13083259",
+  "abstract": "Fine-mapping refines genotype-phenotype association signals to identify causal variants underlying complex traits. However, current methods typically focus on individual genomic loci and do not account for the global genetic architecture. Here we demonstrate the advantages of performing genome-wide fine-mapping (GWFM) with functional annotations and develop methods to facilitate GWFM. In simulations and real data analyses, GWFM outperforms current methods across several metrics, including error control, mapping power, resolution, precision, replication rate and trans-ancestry phenotype prediction. Across 48 complex traits, we identify credible sets that collectively explain 18% of the SNP-based heritability (hSNP2) on average, with 30% credible sets located outside genome-wide significant loci. Leveraging the genetic architecture estimated from GWFM, we predict that fine-mapping over 50% of hSNP2 would require an average of 2\u2009million samples. Finally, as proof-of-principle, we highlight a known causal variant at FTO influencing body mass index and identify new missense causal variants influencing schizophrenia and Crohn's disease risk."
+ },
+ {
+  "avenue": "L4 generate select evolution",
+  "title": "The adaptive plasticity of temperate phage &lt;i&gt;\u03bb&lt;/i&gt;.",
+  "authors": "Gandon S, Goel T, Weitz JS, Lion S.",
+  "year": "2026",
+  "journal": "Virus evolution",
+  "doi": "10.1093/ve/veag026",
+  "pmcid": "PMC13225282",
+  "abstract": "When the temperate phage [Formula: see text] infects its host, the bacterium <i>Escherichia coli</i>, it can either replicate to form new progeny (lytic growth) or integrate its genome into the host chromosome (lysogenization). Crucially, the probability of lysis or lysogeny is tightly regulated and varies with phage and host genotypes and the environment. In particular, the number of viruses coinfecting the same host cell is known to have a strong effect on the outcome of the infection, leading to phenotypic plasticity: the probability of lysogenization is higher when the cellular multiplicity of infection (MOI) increases. However, the selective forces driving the evolution of plasticity in phage [Formula: see text] remain unclear. Here, we analyze the evolution of the plasticity of lysogenization and show that a MOI-varying strategy is adaptive when the abundance of susceptible cells fluctuates periodically. We study how the speed of these fluctuations and various within-host decision rules affect the evolution of viral plasticity. Our results suggest that the complex genetic regulation of lysogeny in temperate phages can be shaped by natural selection allowing viruses to use the MOI as indirect information to persist in environments with fluctuating host densities."
+ },
+ {
+  "avenue": "L4 generate select evolution",
+  "title": "Patient-specific digital twins in aortic disease: integrating computational hemodynamics, immune profiling, and precision endovascular strategy.",
+  "authors": "Dinc R, Ardic N.",
+  "year": "2026",
+  "journal": "Frontiers in cardiovascular medicine",
+  "doi": "10.3389/fcvm.2026.1812347",
+  "pmcid": "PMC13199329",
+  "abstract": "Aortic aneurysms and acute aortic syndromes continue to be significant contributors to cardiovascular morbidity and mortality; however, current risk stratification and treatment timing rely heavily on static anatomical thresholds that do not fully reflect the dynamic biology and mechanics of disease progression. Patient-specific digital twins offer a unifying paradigm where multimodal patient data are integrated into a continuously updated computational representation of an individual aorta to predict trajectories and support precise decision-making. In this review, we propose a five-domain architecture for an aortic digital twin (1): a structural-biomechanical substrate that reconstructs patient geometry and predicts wall stress and remodeling tendency; (2) computational hemodynamics to quantify flow-derived descriptors such as wall shear stress, oscillatory shear, and stagnation; (3) immunobiological integration to incorporate inflammatory activity, immune cell heterogeneity, and proteolytic remodeling signals; (4) predictive intelligence that combines multimodal features, generates individualized growth and complication predictions through uncertainty quantification, and updates predictions with longitudinal data; and (5) a sophisticated endovascular strategy layer that translates twin outputs into procedural planning, device selection, and risk-corrected surveillance. This "
+ },
+ {
+  "avenue": "L4 generate select evolution",
+  "title": "Evolutionary analysis of transcription elongation factors reveals conserved and lineage-specific regulatory domains.",
+  "authors": "Francette AM, Grover A, Clark N, Arndt KM.",
+  "year": "2026",
+  "journal": "PLoS biology",
+  "doi": "10.1371/journal.pbio.3003855",
+  "pmcid": "PMC13289920",
+  "abstract": "In eukaryotes, transcription elongation factors (TEFs) associate with RNA Polymerase II (RNAPII) to facilitate gene expression and couple transcription to co-transcriptional processes, including chromatin regulation and RNA processing. To further our understanding of TEF biology, we developed a domain-centric analysis pipeline to perform a broad survey of 10 TEF orthologs-Paf1, Ctr9, Cdc73, Rtf1, Leo1, Spt4, Spt5, Spt6, Spn1, and Elf1-across the Tree of Life and analyze their evolutionary patterns in a structural context. We report evidence for all 10 TEFs being present in the last eukaryotic common ancestor, indicating that mechanisms of TEF-mediated transcription regulation are both ancient and conserved. However, some early-diverging eukaryotic clades exhibit signs of altered TEF domain composition. A comparative phylogenetic analysis highlighted conserved regions of TEFs that are detected in both metazoans and fungi and other regions that appear clade-specific, detected only in metazoans. These observations, together with additional insights generated from evolutionary rate covariation analysis, shed light on under-characterized aspects of TEFs, including domains for which functions have yet to be dissected."
+ },
+ {
+  "avenue": "L6 triad phenomenology invariant",
+  "title": "The Awareness-First Theory: A Coherence Principle Underlying Active Inference and Physical Law",
+  "authors": "",
+  "year": "2026",
+  "journal": "Entropy (Basel, Switzerland)",
+  "doi": "",
+  "pmcid": "PMC13025530",
+  "abstract": ""
+ },
+ {
+  "avenue": "L6 triad phenomenology invariant",
+  "title": "We need to explain subjective experience, but its explanation may not be mechanistic.",
+  "authors": "Signorelli CM, Cea I, Prentner R.",
+  "year": "2026",
+  "journal": "Neuroscience of consciousness",
+  "doi": "10.1093/nc/niaf034",
+  "pmcid": "PMC13156949",
+  "abstract": "Models of consciousness need to explain both the objective correlates of conscious experience as well as its subjective structure. However, such an explanation would not need to entail a reduction exclusively in terms of physical or neural systems. A model that intends to avoid such reduction is integrated information theory (IIT). In this article, we discuss the explanatory rationale of IIT, its potential inconsistencies and its consequences for the neuroscience of consciousness more broadly. In particular, we identify ambiguities regarding the directionality of the explanation, i.e. important tensions between IIT's purported ontological and epistemological primacy of experience, and its explanatory aim of accounting for consciousness in physical, operational terms. Across the text, we propose several ways to avoid these issues and eventually complement, enhance or replace the model. The main goal is to motivate clarification among IIT-proponents and inform IIT-opponents on accurate points of contention, without thereby misrepresenting the model. In our final section, we introduce alternative explanatory paths: mathematical, processual, and autonomy-based types of explanations. These novel and sound explanatory strategies may better inspire the next generation of models of consciousness."
+ },
+ {
+  "avenue": "L6 triad phenomenology invariant",
+  "title": "Phenomenological reduction and quantitative psychology: a conflict in the study of self-consciousness.",
+  "authors": "Ren H.",
+  "year": "2025",
+  "journal": "Frontiers in psychology",
+  "doi": "10.3389/fpsyg.2025.1650407",
+  "pmcid": "PMC12813081",
+  "abstract": "This paper explores the methodological tensions between quantitative psychology and phenomenological reduction in the study of self-consciousness. Quantitative psychology, historically modeled on the natural sciences, treats self-consciousness as a psychological attribute and operationalizes it through standardized scales. It emphasizes causal relationships between self-consciousness and other factors and primarily adopts a third-person perspective. Despite its contributions, this approach faces persistent challenges, including contextual dependence, constructed measurement tools, and the lack of natural measurement units. In contrast, phenomenology, originating with Husserl, emphasizes the intrinsic, pre-reflective dimension of self-consciousness present in all conscious experience. Unlike quantitative psychology, phenomenology contributes by clarifying meaning prior to causal explanation, recognizing the indispensability of the first-person perspective while acknowledging the value of third-person analysis. From the phenomenological standpoint, contextual dependence is not a limitation, and the aim is not to criticize the absence of natural measurement units in quantitative research, but to clarify the true meaning of the scores and the constructed units from the perspective of lived experience."
+ },
+ {
+  "avenue": "L7 IIT phi measure",
+  "title": "Phi-monads are conceptually problematic and mathematically undefined in Integrated Information Theory 4.0",
+  "authors": "Cea I, Negro N, Mediano PAM, Signorelli CM.",
+  "year": "2025",
+  "journal": "",
+  "doi": "10.31234/osf.io/qm2bd_v1",
+  "pmcid": "",
+  "abstract": "<p>The Integrated Information Theory (IIT) 4.0 is an influential framework aiming to explain consciousness mathematically in terms of intrinsic existence, namely what exists for itself in a specific, maximally irreducible, structured form. IIT thus posits that the minimal substrates of consciousness are also the ultimate building blocks of what exists. These are called \u2018monads\u2019, and are defined as self-connected, single-unit systems purportedly specifying maximal values of IIT\u2019s measure of conscious irreducible existence, namely system integrated information phi_s* (i.e., phi-monads). In this paper, we argue that IIT 4.0\u2019s formalism cannot be applied to monads, thus threatening the theory\u2019s own ontological ground. We show that IIT\u2019s formalism requires that any candidate substrate of consciousness must be constituted by at least two non-overlapping, non-empty, and jointly exhaustive parts, which we refer to as the Plurality requirement. We then show that monads violate this requirement, which leads to serious mathematical and conceptual problems, since the equations needed to calculate system integrated information become undefined. Thus, our paper calls for urgent clarification and/or revision by IIT proponents concerning the status of phi-monads as ontologically fundamental building blocks and minimal substrates of consciousness.</p>"
+ },
+ {
+  "avenue": "L7 IIT phi measure",
+  "title": "Neurobiological emergentism: sentience as an emergent process and the experiential gap.",
+  "authors": "Feinberg TE.",
+  "year": "2025",
+  "journal": "Frontiers in psychology",
+  "doi": "10.3389/fpsyg.2025.1528982",
+  "pmcid": "PMC12356150",
+  "abstract": "One of the most controversial and debated problems regarding the nature of sentience, is how to integrate the biology and neurobiology of sentience with the problem of the \"explanatory gaps\" that are proposed to arise between the functions of the nervous system as <i>objectively and scientifically explained</i> and sentience-or more generally consciousness-as it is <i>subjectively experienced</i>. In this paper I discuss a theory I have called <i>Neurobiological emergentism (NBE)</i> that is based upon a <i>biological-neurobiological-evolutionary</i> model that explains both how sentience <i>emerges</i> from complex nervous systems as well as scientifically resolves the explanatory gaps. I propose a model in which the emergence of sentience occurs roughly in three stages: Emergent Stage 1 (ES1) single-celled <i>sensing</i> organisms without neurons or nervous systems that appeared approximately 3.5-3.4 billion years ago and are <i>non-sentient</i>; Emergent Stage 2 (ES2) <i>presentient</i> animals that appeared approximately 570 million years ago (mya) that have neurons and simple nervous systems and fall between ES1 and ES3 animals; and Emergent stage 3 (ES3) <i>sentient</i> animals that emerged along diverse evolutionary lines during the Cambrian period approximately 560-520 mya, a group that includes all vertebrates (fish, reptiles, birds, and mammals), arthropods (insects a"
+ },
+ {
+  "avenue": "L7 IIT phi measure",
+  "title": "Neuroimaging and consciousness: applications of PET, SPECT, and advanced MRI modalities.",
+  "authors": "Patel RN, Patil S, Gerlach A, Teichner E, Indrakanti D, Subtirelu R, Zwillenberg J, Gandhi OH, Gujra",
+  "year": "2026",
+  "journal": "American journal of nuclear medicine and molecular imaging",
+  "doi": "10.62347/pprc2997",
+  "pmcid": "PMC13003230",
+  "abstract": "A growing number of advanced neuroimaging studies have been used to evaluate the nature of consciousness. Such studies have focused on various states of consciousness as well as ways of inducing altered states of consciousness. Various states of consciousness include the normal waking state, sleep states, the brain under anesthesia, and the impact of disorders such as seizures or schizophrenia. The induction of altered states of consciousness includes practices such as meditation or the use of psychoactive substances leading to psychedelic effects. This paper reviews some of the relevant research and then considers some of limitations and challenges for studying consciousness with neuroimaging, particularly via positron emission tomography (PET), single photon emission computed tomography (SPECT), and advanced magnetic resonance imaging (MRI) modalities."
+ },
+ {
+  "avenue": "L5 morphogenesis memory tissue",
+  "title": "Over 30 years of clinical reasoning: lessons from the \"case records\".",
+  "authors": "Abdulrasak M.",
+  "year": "2025",
+  "journal": "Frontiers in medicine",
+  "doi": "10.3389/fmed.2025.1691085",
+  "pmcid": "PMC12604978",
+  "abstract": ""
+ },
+ {
+  "avenue": "L5 morphogenesis memory tissue",
+  "title": "Mind Everywhere: A Framework for Conceptualizing Goal-Directedness in Biology and Other Domains-Part One.",
+  "authors": "Levin M, Resnik DB.",
+  "year": "2026",
+  "journal": "Biological theory",
+  "doi": "10.1007/s13752-025-00523-6",
+  "pmcid": "PMC13197194",
+  "abstract": "What makes a system-evolved, engineered, or hybrid-describable by teleological and mentalistic terms such as intelligent, goal-directed, cognitive, and intentional? In this two-part article, we review classical thought on teleology in the life sciences and defend a new approach to goal-directedness that stems from an emerging field-diverse intelligence. This field seeks to characterize what all active agents, regardless of their composition or provenance, have in common. Our approach emphasizes: (1) empirical testability (not philosophical commitments to linguistic categories), (2) fecundity in discovery of new capabilities (not just reductive mechanistic explanations of results after they are made, but worldviews that facilitate and enable novel research), (3) operationalization of terminology by reference to conceptual and empirical toolkits shown to be effective for a given system (cognitive and teleological claims are really hypotheses of optimal interaction protocols), and (4) continuity of human goal-directedness with our unicellular origins (which implies a need for models of scaling of cognition). In Part One, we review historical and contemporary debates about teleology in biology and describe some ground-breaking experimental results from morphogenesis, synthetic biology, and other areas of research involving the coordination of cellular behavior by means of bioelectr"
+ },
+ {
+  "avenue": "L5 morphogenesis memory tissue",
+  "title": "Aging as a Loss of Goal-Directedness: An Evolutionary Simulation and Analysis Unifying Regeneration with Anatomical Rejuvenation.",
+  "authors": "Pio-Lopez L, Hartl B, Levin M.",
+  "year": "2025",
+  "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+  "doi": "10.1002/advs.202509872",
+  "pmcid": "PMC12697880",
+  "abstract": "Although substantial advancements are made in manipulating lifespan in model organisms, the fundamental mechanisms driving aging remain elusive. No comprehensive computational platform is capable of making predictions on aging in multicellular systems. Focus is placed on the processes that build and maintain complex target morphologies, and develop an insilico model of multiscale homeostatic morphogenesis using Neural Cellular Automata (NCAs) trained by neuroevolution. In the context of this model: 1) Aging emerges after developmental goals are completed, even without noise or programmed degeneration; 2) Cellular misdifferentiation, reduced competency, communication failures, and genetic damage all accelerate aging but are not its primary cause; 3) Aging correlates with increased active information storage and transfer entropy, while spatial entropy distinguishes two dynamics, structural loss and morphological noise accumulation; 4) Despite organ loss, spatial information persists in tissue, implementing a memory of lost structures, which can be reactivated for organ restoration through targeted regenerative information; and 5) rejuvenation is found to be most efficient when regenerative information includes differential patterns of affected cells and their neighboring tissue, highlighting strategies for rejuvenation. This model suggests a novel perspective on aging as loss of "
+ }
+]

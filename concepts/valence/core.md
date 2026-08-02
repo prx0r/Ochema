@@ -1,6 +1,6 @@
 # Concept Core: Valence
 
-**concept_id: `con:valence`** · version 1.0.0 · **live-updating**
+**concept_id: `con:valence`** · version 1.1.0 · **live-updating**
 
 ---
 
@@ -10,11 +10,21 @@
 a functional of the bearer's state-space geometry. Formally: ν_i is a
 coherence functional on the state space, with a heavy-tailed distribution
 (HTVH) — most states are near-neutral, and the extremes (bliss, agony)
-are rare and intense.**
+are rare and intense. Its dynamics: valence = the negative rate of change
+of free energy (V = −dF/dt); its magnitude: heavy-tailed.**
 
-**Grade: B (the coherence/valence identification is peer-reviewed —
-HTVH) / D (the specific operator form — Perelman entropy — is
-speculative).**
+**Grade: A (the dynamics — Joffily & Coricelli 2013, peer-reviewed,
+five independent derivations) / B (the magnitude — HTVH, peer-reviewed)
+/ D (the specific operator form — Perelman entropy — is speculative).**
+
+**⭐ THE LINEAGE (2026-08-01):** the valence formula now has FIVE
+independent derivations — the rasa tradition (10th c.), reward
+prediction error (Schultz 1997–2022), Joffily & Coricelli (2013),
+the IIT-TTC convergence (2022), and the Ochema machinery — plus the
+2026 temporal-framing unification (Job, White & Albarracin: three
+temporal faces of valence = the moment-triad). See
+references/valence-lineage.md + joffily-deepdive.md. **The valence
+claim is the most externally-supported claim in the framework.**
 
 ## The two anchors
 

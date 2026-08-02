@@ -1,0 +1,102 @@
+[
+ {
+  "avenue": "degrees of consciousness Lee",
+  "title": "A model dealing with degrees of consciousness.",
+  "year": "1959",
+  "authors": "BAYARD J.",
+  "journal": "The Journal of general psychology",
+  "doi": "10.1080/00221309.1959.9710246",
+  "pmcid": "",
+  "abstract": ""
+ },
+ {
+  "avenue": "degrees of consciousness Lee",
+  "title": "[Vascular and tissue changes in brain contusion foci in the acute period of craniocerebral trauma with varying degrees of consciousness disorder].",
+  "year": "1993",
+  "authors": "Pushakov SM.",
+  "journal": "Sudebno-meditsinskaia ekspertiza",
+  "doi": "",
+  "pmcid": "",
+  "abstract": "The author presents a comparative analysis of vascular and tissue reactions in brain contusion foci in the acute period of a craniocerebral injury involving various degrees of consciousness disorders. These reactions were found to depend on the periods elapsed since the injury and the severity of consciousness disorders."
+ },
+ {
+  "avenue": "graded consciousness recent",
+  "title": "Automated EEG Classification to Track Levels of Consciousness",
+  "year": "2026",
+  "authors": "Curley WH, Hoopes A, Zhou DW, Conte MM, Victor JD, Schiff ND, Edlow BL.",
+  "journal": "",
+  "doi": "10.64898/2026.06.18.26355981",
+  "pmcid": "",
+  "abstract": "Precise prognostication in acute brain injury is limited by a lack of reliable biomarkers of consciousness available to clinicians at the bedside. The ABCD framework is a method of classifying resting-state clinical EEG into categories that reflect levels of thalamocortical network function. ABCD classifications in the intensive care unit (ICU) have been shown to provide diagnostic and prognostic utility for patients with severe brain injuries, but the current gold standard for ABCD classification is visual inspection of power spectra, which is labor-intensive and requires expertise in spectral analysis. Using 4,611 manually classified EEG power spectra, we developed an automated, highly accurate, and well-calibrated convolutional neural net-based classifier of EEG into ABCD categories. The classifier has performance comparable to that of the current gold standard and that outperforms an alternative method of automated spectral analysis. As proof-of-principle for clinical implementation, we apply the classifier to a continuous EEG record from a patient with acute severe traumatic brain injury in the ICU, demonstrating its ability to yield continuous ABCD classifications that captur"
+ },
+ {
+  "avenue": "graded consciousness recent",
+  "title": "Should any acutely ill patient who cannot answer questions be seen immediately? The 24-h mortality associated with different levels of consciousness.",
+  "year": "2026",
+  "authors": "Muhumuza A, Nakitende I, Nabiryo J, Kitovu Hospital Study Group, Kellett J.",
+  "journal": "Postgraduate medical journal",
+  "doi": "10.1093/postmj/qgag049",
+  "pmcid": "",
+  "abstract": "<h4>Background</h4>The purpose of patient monitoring is to identify when immediate assessment to prevent morbidity and death is needed.<h4>Aim</h4>To determine the optimal description of level of consciousness, using death within 24\u00a0h as a surrogate marker for when a patient needs to be assessed immediately.<h4>Methods</h4>Observational non-interventional study: the level of consciousness of acutely ill medical patients to a low resource Ugandan hospital was assessed daily using a modified version of the Richmond Agitation and Sedation Scale.<h4>Results</h4>2579 daily observations (3.4 per admission) were performed on 757 patients; while in hospital 43 (5.7%) patients died, 42 of whom died within 24\u00a0h of their last observation. The inability to answer questions using speech had the highest uncorrected odds ratio for 24\u00a0h mortality (OR 14.4, 95% CI 7.2-29.3), the highest odds ratio when corrected for age and sex (OR 12.3, 95% CI 6.1-24.8), and highest Youden number (0.545).<h4>Conclusion</h4>The inability to answer questions using speech was the level of consciousness assessment that best predicted 24\u00a0h mortality. As it is simple and unambiguous, it may help in the efficient identif"
+ },
+ {
+  "avenue": "graded consciousness recent",
+  "title": "Emotional literacy and levels of consciousness in bio-psycho-social-spiritual-ecological (5D) model of human experience.",
+  "year": "2026",
+  "authors": "Dragic I.",
+  "journal": "Frontiers in psychology",
+  "doi": "10.3389/fpsyg.2026.1520959",
+  "pmcid": "PMC12872479",
+  "abstract": "The efficacy of emotion regulation, critical for psychological wellbeing and a transdiagnostic approach to treating mental health, is tightly related to a broader emotional literacy construct. Both concepts are inseparably intertwined with a conceptual framework of emotions, but a generally accepted theory is still missing. This article presents the circular emotional reaction (CER) model by Zoran Milivojevic as a comprehensive framework of emotion psychology and psychopathology that aligns with the latest scientific findings. It further elaborates on the framework by introducing the novel bio-psycho-social-spiritual-ecological (5D) model of human experience, depicted as an iceberg personality metaphor that integrates major psychological functions through the lifespan on the intrapersonal, interpersonal, and societal level, with the CER model as a link between the different domains. Against that backdrop, distinct levels of consciousness are formulated that are informed by moral development and the locus of power, and the main hypothesis is postulated that they are directly proportional to emotional literacy. Despite its complexity, the developed model offers practical tools by lay"
+ },
+ {
+  "avenue": "graded consciousness recent",
+  "title": "Gut Microbiome Differentiates Levels of Consciousness in Patients with Prolonged Disorders of Consciousness after Brain Injury.",
+  "year": "2025",
+  "authors": "You W, Lin Y, Wei A, Cai J, Wen L, Lin Y, Yang X, Wu Z.",
+  "journal": "Journal of neurotrauma",
+  "doi": "10.1177/08977151251360256",
+  "pmcid": "",
+  "abstract": "Differentiation of levels of consciousness in patients with prolonged disorders of consciousness (DOC) remains a major challenge, especially differentiation between vegetative state (VS) and minimally conscious state (MCS). This study was to investigate the alterations of gut microbiota in patients with DOC and to identify potential microbiome biomarkers that can differentiate levels of consciousness. In this study, we collected fecal samples from patients with prolonged DOC, including 19 patients in MCS and 14 patients in VS; 16S-rRNA sequencing was used to investigate the gut microbiome of patients. Gut microbiota diversity, composition, and discriminant bacterial taxa were analyzed to identify potential biomarkers for differentiating levels of consciousness. We found that diversity and composition of gut microbiome were significantly altered in patients with DOC, and decreased alpha diversity was associated with lower levels of consciousness. Specific bacterial taxa including <i>Firmicutes, Escherichia_shigella, Raecalibacterium, Lachnospiraceae</i>, and <i>Ruminococcaceae_UCG_013</i> were more abundant in patients in MCS, whereas <i>Clostridiales</i> were more abundant in patie"
+ },
+ {
+  "avenue": "vegetative minimal consciousness",
+  "title": "Effects of comprehensive rehabilitation on complications and long-term prognoses of patients in vegetative and minimal consciousness states.",
+  "year": "2020",
+  "authors": "Zhang XN, Chi QQ, Zhang X, Zhang Y, Sun XT, Wang RR, Zhang H.",
+  "journal": "European review for medical and pharmacological sciences",
+  "doi": "10.26355/eurrev_202005_21353",
+  "pmcid": "",
+  "abstract": "<h4>Objective</h4>To understand the clinical characteristics, prognoses, and prognostic factors of vegetative state (VS) and minimal consciousness state (MCS) patients hospitalized for comprehensive rehabilitation.<h4>Materials and methods</h4>The data of VS and MCS patients admitted in the past six years were retrospectively analyzed. Age of onset, etiology, course of disease, complications, and retention of tracheal intubation, gastric tube, and urethral catheter were recorded. All patients were followed for one year after onset, and their Glasgow Outcome Scale (GOS) scores were assessed. Long-term prognostic factors were analyzed using logistic regression.<h4>Results</h4>The proportion of patients with traumatic brain injuries in the MCS group was higher than in the VS group (p<0.05), while hypoxic-ischemic encephalopathy accounted for a higher proportion in the VS group; the differences were statistically significant between the two groups. The occurrence of infection was the highest in both groups, followed by spasticity and epilepsy. The occurrence of other complications was slightly different between the two groups but did not reach statistical significance (p>0.05). Age, et"
+ },
+ {
+  "avenue": "vegetative minimal consciousness",
+  "title": "Preserved consciousness in vegetative and minimal conscious states: systematic review and meta-analysis.",
+  "year": "2016",
+  "authors": "Kondziella D, Friberg CK, Frokjaer VG, Fabricius M, M\u00f8ller K.",
+  "journal": "Journal of neurology, neurosurgery, and psychiatry",
+  "doi": "10.1136/jnnp-2015-310958",
+  "pmcid": "",
+  "abstract": "Active, passive and resting state paradigms using functional MRI (fMRI) or EEG may reveal consciousness in the vegetative (VS) and the minimal conscious state (MCS). A meta-analysis was performed to assess the prevalence of preserved consciousness in VS and MCS as revealed by fMRI and EEG, including command following (active paradigms), cortical functional connectivity elicited by external stimuli (passive paradigms) and default mode networks (resting state). Studies were selected from multiple indexing databases until February 2015 and evaluated using the Quality Assessment of Diagnostic Accuracy Studies-2. 37 studies were identified, including 1041 patients (mean age 43 years, range 16-89; male/female 2.1:1; 39.5% traumatic brain injuries). MCS patients were more likely than VS patients to follow commands during active paradigms (32% vs 14%; OR 2.85 (95% CI 1.90 to 4.27; p<0.0001)) and to show preserved functional cortical connectivity during passive paradigms (55% vs 26%; OR 3.53 (95% CI 2.49 to 4.99; p<0.0001)). Passive paradigms suggested preserved consciousness more often than active paradigms (38% vs 24%; OR 1.98 (95% CI 1.54 to 2.54; p<0.0001)). Data on resting state paradi"
+ },
+ {
+  "avenue": "vegetative minimal consciousness",
+  "title": "Response: Commentary: Cortical responses to salient nociceptive and not nociceptive stimuli in vegetative and minimal conscious state.",
+  "year": "2016",
+  "authors": "de Tommaso M.",
+  "journal": "Frontiers in human neuroscience",
+  "doi": "10.3389/fnhum.2016.00012",
+  "pmcid": "PMC4732032",
+  "abstract": ""
+ },
+ {
+  "avenue": "vegetative minimal consciousness",
+  "title": "Cortical responses to salient nociceptive and not nociceptive stimuli in vegetative and minimal conscious state.",
+  "year": "2015",
+  "authors": "de Tommaso M, Navarro J, Lanzillotti C, Ricci K, Buonocunto F, Livrea P, Lancion",
+  "journal": "Frontiers in human neuroscience",
+  "doi": "10.3389/fnhum.2015.00017",
+  "pmcid": "PMC4310288",
+  "abstract": "<h4>Aims</h4>Questions regarding perception of pain in non-communicating patients and the management of pain continue to raise controversy both at a clinical and ethical level. The aim of this study was to examine the cortical response to salient visual, acoustic, somatosensory electric non-nociceptive and nociceptive laser stimuli and their correlation with the clinical evaluation.<h4>Methods</h4>Five Vegetative State (VS), 4 Minimally Conscious State (MCS) patients and 11 age- and sex-matched controls were examined. Evoked responses were obtained by 64 scalp electrodes, while delivering auditory, visual, non-noxious electrical and noxious laser stimulation, which were randomly presented every 10 s. Laser, somatosensory, auditory and visual evoked responses were identified as a negative-positive (N2-P2) vertex complex in the 500 ms post-stimulus time. We used Nociception Coma Scale-Revised (NCS-R) and Coma Recovery Scale (CRS-R) for clinical evaluation of pain perception and consciousness impairment.<h4>Results</h4>The laser evoked potentials (LEPs) were recognizable in all cases. Only one MCS patient showed a reliable cortical response to all the employed stimulus modalities. One"
+ }
+]

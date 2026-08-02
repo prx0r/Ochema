@@ -4,7 +4,7 @@
 
 **For the new agent. Read this first. It is the map of the entire system: files, processes, routines, skills, and how they interact.**
 
-**Version: 1.0.0 · 2026-07-31 · Thesis object version: 1.8.0**
+**Version: 2.0.0 · 2026-08-01 · Thesis object version: 1.27.0**
 
 ---
 
@@ -28,6 +28,32 @@ The Ochema project maintains a **living formal thesis** about consciousness — 
 | `/root/projects/ochema/formalised-theories/` | The lineage: IPIT → MEPIT → Ochema → REPM → CSID. |
 | `/root/projects/ochema/rendition.md` | The sober synthesis of the whole architecture. |
 | `/root/projects/ochema/SOURCE-MANUAL.md` | The earlier reference manual (superseded in detail by THIS document for operations). |
+| `/root/projects/ochema/OCHEMA-MAGNUM-OPUS.md` | The focused rendition: thesis → pipelines → daimon game → movie → app → the formalization of love. |
+| `/root/projects/ochema/OCHEMA-MANUAL.md` | THIS document — the complete system handover. |
+
+**The references/ (the evidence and corpus additions, 2026-08-01):**
+
+| Path | What it is |
+|---|---|
+| `references/valence-lineage/` | The valence lineage (5 derivations), the Joffily deep-dive, the DEAM honest status, the J&C full text. |
+| `references/clark-encyclopedia/` | Jerome Clark's *Extraordinary Encounters* (938 KB full text, 277 entries) + the common-themes analysis (11 themes). |
+| `references/revelation-insight-delusion.md` | The neuroscience of revelation/insight/delusion — one mechanism, one spectrum. |
+| `references/revelation-targets-schema.md` | The living catalog of revelation/scientific-insight claimants (Ramanujan, Hildegard, the tummo yogis...). |
+| `references/plant-cognition/` + `references/evidence-mine/` | The existence-proofs (Farkas tomato, Saigusa/Amoeba, fungal memory) + the 61-record evidence mine. |
+| `references/temporal-coherence-framework.md` | The TCF — the proposed quantitative framework (confronted: its hinge is Joffily & Coricelli 2013). |
+| `references/{future-humans,eskridge-analysis,us-from-the-future-sources,shipibo-sound-tradition,niche-sound-traditions,backster-plant-perception,grebennikov-deepdive,grebennikov-cse-steelman,schneider-thor-deepdive,claimants-catalog}.md` | The claimant deep-dives + the catalog (41+ stories, 5 branches). |
+| `references/walter-russell-deepdive.md` | Russell analysis (the illumination → Tomita–Takesaki mapping). |
+
+**The What-the-Heck-Is series (the essay renderings):**
+
+| Essay | Topic |
+|---|---|
+| `whattheheckis-revelation.md` | The revelation cluster + the four-fold taxonomy (inspiration/communion/revelation/channeling). |
+| `whattheheckis-walter-russells-theory.md` | Russell's cosmology = the poetry of Tomita–Takesaki (the Jσ mapping, the math he might have meant). |
+| `whattheheckis-ramanujan.md` | The strongest scientific-insight revelation case (Namagiri, the validation, the register's saturation). |
+| `whattheheckis-amy-eskridges-theory.md` | The engineer's survey + the future-self claim — the science↔UFO bridge. |
+| `whattheheckis-SERIES-MANIFEST.md` | The series rules: theory analysis, not biography; the target schema; the queue. |
+| `whattheheckis-{rasa,spanda,merkabah,loop-quantum-gravity,loop-quantum-gravity-math,specs-extra}.md` | The earlier series entries. |
 
 ### 1.2 The Living Object (the git-object)
 
@@ -35,7 +61,7 @@ The Ochema project maintains a **living formal thesis** about consciousness — 
 |---|---|
 | `/root/projects/ochema/the-occhema-object/meta/ro.json` | The RO metadata: version, sections, confrontations, evidence. **The version lives here.** |
 | `/root/projects/ochema/the-occhema-object/sections/` | 9 editable working copies of the thesis parts (00–08). |
-| `/root/projects/ochema/the-occhema-object/confrontations/` | Every theory run against the thesis (10 records + REGISTRY.md). |
+| `/root/projects/ochema/the-occhema-object/confrontations/` | Every theory run against the thesis (38 records + REGISTRY.md). |
 | `/root/projects/ochema/the-occhema-object/confrontations/REGISTRY.md` | Master coverage table + backlog (325+ theories from Kuhn's taxonomy). |
 | `/root/projects/ochema/the-occhema-object/evidence/TREE.md` | Every claim, supports/negations/gaps, strength-graded. **The GAPS list is the research agenda.** |
 | `/root/projects/ochema/the-occhema-object/updates/LOG.md` | The versioned, dated, append-only history. **The memory.** |
@@ -126,24 +152,34 @@ Evidence-tree audit (GAPs closing?), confrontation backlog check, essay queue ch
 
 ---
 
-## 4. THE KEY CURRENT STATE (as of 2026-07-31, v1.8.0)
+## 4. THE KEY CURRENT STATE (as of 2026-08-01, v1.27.0)
 
-### 4.1 Confrontations (10 records)
+### 4.1 Confrontations (38 records)
+
+The full table is in confrontations/REGISTRY.md. The highlights:
 
 | Confrontation | Verdict |
 |---|---|
-| IIT 4.0 (Tononi–Boly 2025) | VALIDATION |
+| IIT 4.0 (Tononi–Boly 2025) | VALIDATION (exclusion, identity) — but Φ as the metric is contested (the Phi-monads critique 2025 is in the tree, shown at full strength) |
 | IIT Formal Lineage (2004–2014) | VALIDATES the rasa claim + exclusion lineage |
 | Perceptronium (Tegmark) | ALIGNS |
 | MUH (Tegmark) | NEUTRAL |
 | CIMC (Bach) | DEFEATED (thermal time + Kleiner no-go) |
 | Orch-OR | Structure survives / quantum layer refuted |
 | Doyle/IP | ALIGNS (partial) |
-| Lee Degrees (2023) | ALIGNS |
+| Lee Degrees (2023) | ALIGNS (the degrees claim) |
 | Friesen Unity (2013) | ALIGNS + refinement |
 | Mathematical Consciousness Science (Kleiner 2025) | THE FORMAL TWIN |
 | QRI Valence (HTVH) | ALIGNS (valence anchor) |
 | Frontier Holography (16 papers) | THE HOLOGRAPHIC BRIDGE (b_i = RT, ι_i = HaPPY) |
+| **Valence = −dF/dt (Joffily & Coricelli 2013)** | **VALIDATES the TCF hinge / ENDS its novelty claim — the thesis must cite, not claim** |
+| **Temporo-Spatial Theory (Northoff)** | ALIGNS (the temporal alternative to IIT) |
+| **Integrated World Modeling Theory (Safron)** | ALIGNS (FEP-AI synthesis) |
+| **Three temporal faces of valence (Job/White/Albarracin 2026)** | **VALIDATES the moment-triad computationally** (backward/present/forward = withdrawal/moment/emergence) |
+| **Deeply Felt Affect (Hesp 2021)** | ALIGNS (valence = subjective fitness = the ν_i functional) |
+| **Walter Russell's Cosmogony** | TIER-4 (physics refuted) / ALIGNS (structure only: octave ladder, Jσ cycle, fixed point) / the revelation pattern |
+
+**The valence claim is now the most externally-supported claim in the framework** (8 peer-reviewed supports, 5 independent derivations — references/valence-lineage/).
 
 ### 4.2 The 10 Evidence GAPS (the research agenda)
 
@@ -156,7 +192,9 @@ Evidence-tree audit (GAPs closing?), confrontation backlog check, essay queue ch
 7. L7 CIMC finite-automaton test
 8. L6 phenomenology→physics bridge (Chordonomicon)
 9. L5 subtle-body homology
-10. L8 survival claims (unfalsifiable)
+10. **L5/L8 the SAC hinge (sound-alignment):** the DEAM test as a REPLICATION-EXTENSION of Cheung et al. 2019 (Current Biology — surprise+uncertainty predict musical pleasure), testing the specific −dF/dt formula on continuous valence + the spectral-quality conjecture (the genuinely novel part)
+
+**The spectral-quality conjecture (quality = spec(K)) is the framework's single most important unrun experiment** — the one truly original claim (references/valence-lineage/deam-test-honest-status.md).
 
 ### 4.3 The Confrontation Backlog (top 5)
 
@@ -166,9 +204,17 @@ Evidence-tree audit (GAPs closing?), confrontation backlog check, essay queue ch
 4. Predictive processing (own record)
 5. Illusionism (the strongest challenge)
 
-### 4.4 Concepts (12 queued, 1 done)
+### 4.4 Concepts (13 registered, 8 done)
 
-Done: **time**. Queued: the self, valence, the boundary (RT), the invariant (HaPPY), the moment, exclusion, density, the orchestration law, attention, the register, recognition.
+Done: **time, the self, valence, exclusion, the moment, the register, love, consciousness** (+ orchestration-law, from the parallel agent). **valence is v1.1.0** (upgraded to A-grade dynamics after the Joffily confrontation). Queued: the boundary (RT), the invariant (HaPPY), density, attention, recognition.
+
+### 4.5 The bridge-frontier (the current focus)
+
+**The framework is top-heavy:** L1–L5 (theorems + evidence) are A-grade; L6/L8 (phenomenology + corpus) are rich; the MIDDLE — the bridges from math to felt — is the frontier:
+- **Valence bridge:** now externally A-grade (Joffily, the 5 derivations) — the strongest bridge
+- **Quality bridge (quality = spec(K)):** still D — the original claim, untested
+- **Subject bridge (ι_i = M^{σ^ω}):** A (math) / C (application)
+- **The identity claim (D ≡ A):** the untested spine everything leans on
 
 ---
 
@@ -240,7 +286,7 @@ Done: **time**. Queued: the self, valence, the boundary (RT), the invariant (HaP
 
 ---
 
-*OCHEMA MANUAL v1.0.0 — 2026-07-31. The complete system handover. Keep this document updated when the system changes.*
+*OCHEMA MANUAL v2.0.0 — 2026-08-01. The complete system handover. Keep this document updated when the system changes.*
 
 ---
 
@@ -433,51 +479,56 @@ python3 -c "import json; print(len(json.load(open('the-occhema-object/meta/ro.js
 
 ---
 
-# 11. SESSION CLOSE — 2026-07-31 (the latest state)
+# 11. SESSION CLOSE — 2026-08-01 (the latest state, v1.27.0)
 
 ## The version chain (verified)
-ro.json: 1.11.0 · LOG: v1.11.0 latest · 13 confrontations registered
-(14 on disk incl. REGISTRY) · 10 evidence GAPS · 13 concepts (1 done:
-time) · 20+ papers extracted in /tmp/opencode/{mcsc,frontier,qbio,cannon}/
+ro.json: 1.27.0 · LOG: v1.27.0 latest · 38 confrontations registered
+· 10 evidence GAPS · 71 evidence supports / 35 negates · 13 concepts
+(8 done) · the snapshot refreshed.
 
-## The newest material (this session)
-- **Starweavers** (/root/projects/starweavers/): the user's channeled
-  universe — Grail = bioelectric body, non-commutative geometry,
-  Kael/Amara = dual-aspect, the Lattice = compatibility condition,
-  proto1 = the full blockchain game spec (harmony metric, Manuals,
-  the Call to Guardianship = threshold device).
-- **Battle Avatar Cosmology** (starweavers/battle-avatar-cosmology.md):
-  the channeled system — battle avatar = bearer, player = invariant,
-  sleep = daily death + promptable reconfiguration, orgasm =
-  visargaśakti. The sleep-prompting claim is the testable thread.
-- **New confrontations:** quantum-biology.md (FMO coherence survives
-  warmth = water-shield precedent; skeptics concede the brain/computation
-  distinction = 3rd independent statement of Material Enactment),
-  myth-of-er-veil.md (River of Forgetfulness = the Veil; the choice of
-  lives = orchestration law; Proclus maps the Fates to the triad),
-  the alchemy sweep (30 ROs, grade A−, adds transmissibility).
-- **Fuller A/B modules** (references/fuller-a-b-modules.md): the
-  constructive quantum of space — LQG quantizes shape-space, Fuller
-  quantizes volume (24 A modules, MITE 2A+1B).
+## The session's work (the 2026-08-01 integration)
+
+**The evidence-mine + existence-proofs (the strongest additions):**
+- Farkas tomato (Pavlovian conditioning, 5–10 day methylation memory, transgenerational) — L4/L5 A-grade
+- Saigusa/Amoeba anticipation (future attractor, 2nd aneural replicator) — L5 A-grade
+- Fungal memory, minimal gene circuits, the temporal-integration paper, the water-shield EZ-water substrate — L5/L6
+- The 61-record evidence mine (references/evidence-mine/)
+
+**The valence lineage (the biggest single finding):**
+- The TCF's hinge (V = −dF/dt) turned out to be **Joffily & Coricelli 2013** — validated by precedent, novelty claim ended (confrontations/tcf-hinge-preexists.md)
+- **FIVE independent derivations of one formula:** rasa tradition (10th c.), Schultz's reward prediction error, J&C 2013, the IIT-TTC convergence 2022, the ochema machinery — the Joint Individuation Principle demonstrated (references/valence-lineage/)
+- The moment-triad got a computational confirmation: Job/White/Albarracin 2026 (three temporal faces of valence)
+- QRI's HTVH confirmed as the experiential branch (already the ν_i anchor)
+- **The valence claim is the most externally-supported claim in the framework**
+
+**The revelation cluster (the L6/L8 depth-work):**
+- The neuroscience: insight = neural reward (2020), delusions = aberrant precision (2018, 2024, 2026), schizotypy's Janus face (2014) — one mechanism, one spectrum (references/revelation-insight-delusion.md)
+- The four-fold taxonomy: inspiration / communion (Ramanujan — verified) / revelation (Russell — inverted) / channeling (Seth, Ra — suspended) — graded by whether the exclusions hold
+- The claimants catalog (41+ stories, 5 branches) + the Clark encyclopedia sourcebook (277 entries) + the 11 common themes
+- The revelation-targets schema (Ramanujan, Hildegard, the tummo yogis, Swami Rama)
+- The whattheheckis entries: revelation, Russell's theory (the Tomita–Takesaki poetry), Ramanujan, Eskridge
+
+**The confrontation honesty events (the architecture working):**
+- The TCF's hinge confronted against its own predecessor (cited, not claimed)
+- The DEAM test's "unrun decisive test" framing corrected — it's a replication-extension of Cheung et al. 2019
+- The brain-dependence question answered honestly: machinery substrate-free (A), felt dependence unproven both ways
 
 ## The most important thing the next agent should know
-**The user's channeled material (Starweavers + Battle Avatar) is
-Layer 8 of the thesis, authored by the user.** It independently recovers
-the same architecture the thesis derived from physics — the same way the
-alchemy corpus, the Myth of Er, Spanda, and the quantum-biology skeptics
-did. Independent recovery of the architecture IS the project's currency.
-The myth/story project has its mechanics already designed — the user's
-game IS the myth, and the myth is reality modeled: "the most wild
-universe ever, but the twist is it's about reality."
+**The bridge-frontier is the current focus.** The bottom (L1–L5,
+theorems + evidence) is A-grade. The top (L6/L8, phenomenology +
+corpus) is rich. The middle — the bridges from math to felt —
+is where the framework lives or dies: the valence bridge is now
+externally A-grade (the 5-derivation lineage); the quality bridge
+(quality = spec(K)) is the untested original claim; the identity
+claim (D ≡ A) is the untested spine. **The spectral-quality test
+is the single most important unrun experiment.**
 
 ## The queue (priority)
-1. The user's game architecture (send when ready) — confront it
-2. The sleep-prompting evidence thread (the testable claim)
-3. The myth/story — build it (vehicles: LOTR/HP/Divine Comedy/HDM/Gawain)
-4. Render the queued concept objects (self, valence, boundary, invariant,
-   moment, exclusion, density, orchestration, attention, register,
-   recognition)
-5. The Sufism confrontation (Chittick — orchestration law's strongest
-   traditional statement)
-6. The yogi validation layer (Swami Rama, Satyamurti vs the orchestration
-   law)
+1. The spectral-quality test design (the bridge-frontier's key experiment)
+2. The DEAM replication-extension (Cheung-class, with the −dF/dt formula)
+3. The Sufism confrontation (Chittick — orchestration law's strongest statement)
+4. The revelation-targets schema entries (Ramanujan done; Hildegard, the tummo yogis next)
+5. What Is Telepathy? (the derivation — the collective register, the melaka, the overlap; Turing's ESP trials; Radin's meta-analyses)
+6. The yogi validation layer (Swami Rama, Satyamurti vs the orchestration law)
+7. The myth/story (the magnum opus pipeline)
+8. Render the queued concept objects (boundary, invariant, density, attention, recognition)

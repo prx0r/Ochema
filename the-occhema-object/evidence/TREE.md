@@ -115,6 +115,17 @@ no evidence — the exposed points.
   processing literature — direct, multiple labs
 - SUPPORT + — IIT-needs-attention (Lopez & Montemayor 2025) confirms the
   gap attention fills
+- SUPPORT + — Farkas 2025 (tomato habituation = downweighting the
+  predictable, no brain, molecular substrate) — single study,
+  analogical — substrate-independence evidenced (L4-precision-
+  weighting-farkas-tomato.md)
+- SUPPORT + — Boisseau 2016 (Proc B): slime mold habituation,
+  aneural, stimulus-specific — third substrate
+  (existence-proofs/EXISTENCE-PROOF-LOG-1.md)
+- SUPPORT + — Dysconnection hypothesis 30-year update (2026, World
+  Psychiatry): precision-weighting account of schizophrenia —
+  clinical validation of the Friston line
+  (evidence-mine/EVIDENCE-MINE-LOG-1.md)
 - NEGATE 0 — none
 
 ## L5 — Biology
@@ -122,12 +133,37 @@ no evidence — the exposed points.
 ### Claim: Generate→select is universal in biology
 - SUPPORT +++ — Levin corpus (GRNs condition like Pavlov; planarians;
   tissues) — direct, replicated, multiple labs
+- SUPPORT ++ — Levin & Resnik 2026 "Mind Everywhere" (Parts 1+2):
+  goal-directedness framework for all agents regardless of
+  composition — the bearer model academicized
+  (existence-proofs/EXISTENCE-PROOF-LOG-1.md)
 - NEGATE 0 — none
+
+### Claim: The collective register exists (the group as shared state)
+- SUPPORT + — Fungal Memory and Minimal Cognition (2026, Topics
+  Cog Sci): mycelial networks exhibit minimal cognition via
+  memory-integrated regulation (evidence-mine log)
+- SUPPORT + — Foraging memory in ectomycorrhizal mycelium (2025,
+  Commun Integr Biol): EXPERIMENTAL — Laccaria bicolor retained
+  directional nutrient memory (PDF saved)
+- NEGATE 0 — none
+- **GAP: no experimental test at the human-group scale**
 
 ### Claim: The morphogenetic target is the future attractor
 - SUPPORT +++ — planarian pattern persistence through complete cell
   turnover (Levin) — direct, replicated
 - SUPPORT ++ — target constrains present via closed-loop error minimization
+- SUPPORT ++ — Saigusa 2008 (PRL): slime mold anticipates periodic
+  events in stimulus-free conditions — aneural future-attractor
+  behavior, physics-journal (existence-proofs/EXISTENCE-PROOF-LOG-1.md)
+- SUPPORT ++ — Amoeba proteus anticipation (2026, Sci Rep): second
+  aneural organism, independent lab — replication
+  (evidence-mine/EVIDENCE-MINE-LOG-1.md, PDF saved)
+- SUPPORT ++ — Aging as Loss of Goal-Directedness (Levin 2025, Adv
+  Sci): aging EMERGES after developmental goals complete — target
+  morphology computationally demonstrated (evidence-mine log, PDF)
+- SUPPORT + — Latzel 2018: anticipatory clonal strawberry (epigenetic
+  substrate) — prediction in plants
 - NEGATE 0 — none
 
 ### Claim: Material specificity is constitutive
@@ -139,6 +175,9 @@ no evidence — the exposed points.
 ### Claim: Water coherent domains shield brain quantum states
 - SUPPORT ++ — QED coherent domains exist (Del Giudice, established physics);
   EZ water exists (Pollack) — the physics is real
+- SUPPORT + — Exclusion-zone water observed INSIDE plant xylem
+  vessels (2024, Sci Rep) — the EZ substrate in living tissue
+  (evidence-mine log, PDF saved)
 - NEGATE −− — no published Λ calculation for a coherent-domain-shielded
   cytosol; the friendliest ion-channel estimates (10⁻⁹ s) are still 7
   orders short of 25 msec — the shield is a candidate, not demonstrated
@@ -156,13 +195,42 @@ no evidence — the exposed points.
 ### Claim: The moment-triad is the structure of experience
 - SUPPORT +++ — 5 independent derivations (Spanda, Proclus, Ñāṇavīra,
   Tibetan, Whitehead) — independent, structural, no cross-talk
+- SUPPORT ++ — Job, White & Albarracin 2026 (the three temporal
+  faces of valence: backward = −dF/dt, present = RPE, forward =
+  policy revision — the triad in computational emotion, independent)
+  (valence-lineage/joffily-deepdive.md)
 - SUPPORT + — Orch-OR's collapse-as-moment (physiological candidate)
 - SUPPORT + — Bennett 2025 (preprint, C): the Temporal Gap — his
   "OPTION 1" (consciousness realized by the state at a point in time;
   "smearing a consciousness state over time will kill it") is the
   withdrawal-phase claim, stated as a design bet (L9993–9998)
+- SUPPORT + — Temporal integration across biological scales (2026,
+  Front Integr Neurosci): minimum temporal windows as a biologically
+  invariant constraint, from cellular memory to experience —
+  the moment structure independently proposed
+  (evidence-mine/EVIDENCE-MINE-LOG-1.md, PDF saved)
 - NEGATE 0 — no phenomenological counterexample found
 - **GAP: no quantitative bridge (phenomenology → physics)**
+
+### Claim: Valence is the coherence functional (ν_i — the valence bridge hypothesis)
+- SUPPORT +++ — Joffily & Coricelli 2013 (valence = −dF/dt, PLoS
+  Comput Biol, peer-reviewed); Hesp et al. 2021 (valence =
+  subjective fitness, Neural Computation); Schultz 1997–2022
+  (reward prediction error = present valence) — three independent
+  computational derivations (valence-lineage/joffily-deepdive.md)
+- SUPPORT ++ — Gómez-Emilsson & Percy 2023 (HTVH: valence
+  magnitudes heavy-tailed, Frontiers in Psychology, peer-reviewed)
+  — the QRI anchor, in registry
+- SUPPORT ++ — Job, White & Albarracin 2026 (three temporal faces
+  of valence unified — backward/present/forward)
+- SUPPORT + — Aesthetic chills (2024, PMC11233292): chills =
+  precision/uncertainty dynamics; Beauty & Uncertainty (2022):
+  FEP aesthetics — the rasa connection, published
+- SUPPORT + — Mood tunes prediction (2020): depression as fixed
+  precision architecture — clinical
+- NEGATE 0 — none
+- **GAP: the felt-quality claim remains (dynamics measured;
+  phenomenal character unmeasured)**
 
 ### Claim: The invariant perceiver survives content changes
 - SUPPORT ++ — Spanda Stanza 3; Ñāṇavīra's invariant O; Tibetan luminosity;
@@ -181,6 +249,10 @@ no evidence — the exposed points.
 - SUPPORT + — perceptronium (Tegmark): consciousness as state of matter
 - NEGATE − — Lee (2023): "we don't know what consciousness is yet" — the
   identity is premature (epistemic caution, not refutation)
+- NEGATE − — Phi-monads critique (2025): the IIT 4.0 phi-monads
+  formalism "conceptually problematic and mathematically undefined" —
+  a technical critique of the identity claim's flagship support
+  (evidence-mine/EVIDENCE-MINE-LOG-1.md)
 - NEGATE − — illusionism/Dennett line (unconfronted, backlog) — the
   strongest challenge pending
 - **GAP: no experimental discrimination of identity vs correlation**
@@ -202,6 +274,38 @@ no evidence — the exposed points.
 
 ## L8 — Experiential corpus
 
+### Claim: The Sound-Alignment Claim (SAC) — structured acoustic input re-weights the register in proportion to its coherence-structure; valence tracks −dS/dt (V(t) = −d/dt[S(ω‖ω_pred)])
+- SUPPORT +++ — Farkas 2025 (tomato: ultrasound re-weights
+  methylome/transcriptome, conditioning); Boisseau 2016 (habituation);
+  Saigusa 2008 + Amoeba 2026 (anticipation) — direct, multiple labs,
+  peer-reviewed (evidence/SAC-sound-alignment-claim.md)
+- SUPPORT ++ — sound vibrations on plant holobionts (2026); acoustic
+  levitation physics (sound moves matter, standing-wave nodes);
+  resonant insect flight (chitin thorax as oscillator) —
+  established physics + peer-reviewed reviews
+- SUPPORT + — Latzel 2018 (anticipatory strawberry, epigenetic);
+  chitin piezoelectricity (reported, contested); temporal-integration
+  (2026) — the moment structure
+- SUPPORT 0/Tier-4 — the experiential corpus (icaros, bowls,
+  overtone: "sound aligns the body" across traditions) — motivates,
+  does not evidence
+- NEGATE −− — Grebennikov CSE platform (passive honeycomb cannot
+  levitate: thermodynamics); acoustic intensity constraint for
+  macroscopic levitation; Backster telepathy refuted (EEG) — the
+  refuted VARIANTS, not the claim
+- NEGATE − — IIT-plant rebuttal (2021): IIT cannot prove plant
+  consciousness (Φ not confined to life)
+- NEGATE 0 — the specific formula-form on continuous valence is
+  untested (Cheung 2019 tested chord-level surprise/uncertainty,
+  not the full −dF/dt formula); the felt claim is Tier-4 (hard
+  problem untouched)
+- **GAP: P1 is a REPLICATION-EXTENSION of Cheung et al. 2019
+  (Current Biology — surprise+uncertainty predict musical
+  pleasure, fMRI-confirmed), testing the specific Joffily-Coricelli
+  −dF/dt formula on DEAM's continuous valence, extended to the
+  spectral-quality conjecture (the genuinely novel part). See
+  valence-lineage/deam-test-honest-status.md**
+
 ### Claim: The orchestration law (state at threshold determines outcome)
 - SUPPORT ++ — corollary of TWO theorems: thermal time + quantum Bayes —
   theorem-backed
@@ -211,6 +315,17 @@ no evidence — the exposed points.
   value judgement are one and the same... interpretation and value
   judgement" (conscious-machines.txt L1036, L9022) — the orchestration
   law from the evolutionary/FEP side, independent
+- SUPPORT + — Farkas 2025 (tomato conditioning: state at threshold
+  determined by stored weighting, molecular substrate, no brain) —
+  first external peer-reviewed biological support; partially closes
+  GAP #9 (L8-orchestration-law-farkas-tomato.md)
+- SUPPORT + — Pla-Mauri & Solé 2026 (ACS SynBio): minimal genetic
+  circuits implement habituation/sensitization/spacing effects —
+  the operations in a test tube (existence-proofs/EXISTENCE-PROOF-
+  LOG-1.md)
+- SUPPORT + — Latzel 2018: anticipatory strawberry = predictive cue
+  → stored weighting → anticipatory response, epigenetic substrate
+  (existence-proofs/EXISTENCE-PROOF-LOG-1.md)
 - NEGATE 0 — the corpus is Tier-4 (not evidence for the claim's truth;
   the theorems carry it)
 - **GAP: no direct experimental test of the orchestration law as stated**
@@ -245,7 +360,8 @@ no evidence — the exposed points.
 7. **L7**: identity vs correlation — no experimental discrimination
 8. **L7**: CIMC's finite-automaton phenomenality — untested
 9. **L8**: orchestration law — no direct test
-10. **L8**: survival claims — unfalsifiable
+10. **L8**: SAC hinge — V = −dS/dt untested (P1/DEAM, data exists NOW)
+11. **L8**: survival claims — unfalsifiable
 
 ## STRONGEST CLAIMS (multiple independent supports)
 

@@ -846,6 +846,20 @@ pleasure; dissonance = pain; a chord IS its location in the orbifold.
    "the geometry of the exclusion operation" (unified-framework.md
    Theorem 4: ν_i = Symmetry(⟨E_i^kalā ... E_i^niyati⟩)).
 
+4. **⭐ THE VALENCE LINEAGE (2026-08-01 — the strongest external
+   confirmation in the framework):** the valence dynamics
+   (V = −dF/dt) now have FIVE independent derivations — the rasa
+   tradition (10th c., "the pleasure of resolution"), reward
+   prediction error (Schultz 1997–2022, dopamine), Joffily &
+   Coricelli (2013, PLoS Comput Biol, peer-reviewed), the IIT-TTC
+   convergence (2022), and the Ochema machinery itself. The 2026
+   temporal-framing unification (Job, White & Albarracin) adds the
+   three temporal faces of valence — which independently reproduce
+   the moment-triad. The Joint Individuation Principle at work:
+   the structure recovered at five independent levels. See
+   references/valence-lineage.md + joffily-deepdive.md. The
+   thesis must cite Joffily & Coricelli, not claim the formula.
+
 4. **The testable prediction (rasa-top-leads):** the Chordonomicon
    dataset (666k songs) — if emotional quality maps to geometric
    distance in a 6D space, the identity claim gains empirical

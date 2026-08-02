@@ -4,6 +4,67 @@ Every change to the canonical object, versioned and dated. Append-only.
 
 ---
 
+## v1.27.0 — 2026-08-01 — The Valence Lineage + the full session's integrations
+
+The biggest single-session integration. The thesis's valence claim
+(ν_i) is now the most externally-supported claim in the framework:
+
+- **The TCF's hinge confronted:** the master equation V = −dS/dt is
+  Joffily & Coricelli 2013 (PLoS Comput Biol) — validated by
+  precedent, novelty claim ended. The honesty architecture caught
+  its own overclaim (confrontations/tcf-hinge-preexists.md).
+- **The five-derivation lineage:** rasa tradition (10th c.) +
+  reward prediction error (Schultz) + Joffily & Coricelli (2013) +
+  IIT-TTC (2022) + the Ochema machinery — five independent
+  derivations of one formula = the Joint Individuation Principle
+  demonstrated (references/valence-lineage.md + joffily-deepdive.md).
+- **The moment-triad's computational confirmation:** Job, White &
+  Albarracin 2026 — three temporal faces of valence
+  (backward/present/forward) = the triad, independently derived.
+- **QRI confirmed on the hunch:** the HTVH (already the ν_i anchor)
+  is the experiential branch of the same tree.
+- **Evidence tree:** new valence-claim row (+++), moment-triad
+  upgraded (++), SAC row added, GAPs updated.
+- **Confrontation registry:** +4 records (temporal faces, Hesp,
+  FEP aesthetics; Northoff/Safron/IIT-TTC already added).
+
+Other session integrations (references/): future-humans.md,
+eskridge-analysis.md, us-from-the-future-sources.md,
+shipibo-sound-tradition.md, niche-sound-traditions.md,
+backster-plant-perception.md, grebennikov-deepdive.md +
+grebennikov-cse-steelman.md, schneider-thor-deepdive.md,
+claimants-catalog.md (+ Clark encyclopedia sourcebook +
+common-themes.md), evidence-mine logs, plant-cognition corpus,
+temporal-coherence-framework.md, the SAC evidence record.
+
+---
+
+## v1.26.0 — 2026-08-01 — Plant cognition evidence (Farkas tomato)
+
+Added the Farkas et al. 2025 tomato study (PMC12456219) as the
+first external peer-reviewed biological evidence for the
+classical-information layer:
+
+- **L4 (Attention is precision weighting):** SUPPORT + — tomato
+  habituation = downweighting the predictable, no brain, molecular
+  substrate (methylation). Substrate-independence evidenced.
+  (evidence/L4-precision-weighting-farkas-tomato.md)
+- **L8 (Orchestration law):** SUPPORT + — tomato conditioning:
+  state at threshold determined by stored weighting. Partially
+  closes GAP #9. (evidence/L8-orchestration-law-farkas-tomato.md)
+
+Context: the L3 quantum layer of the orchestration remains
+−− refuted-as-stated (Tegmark decoherence). The tomato evidences
+the SURVIVING classical layer — the machinery runs without a
+brain or quantum coherence.
+
+Also: new references — future-humans.md, eskridge-analysis.md,
+us-from-the-future-sources.md, shipibo-sound-tradition.md,
+niche-sound-traditions.md, backster-plant-perception.md,
+plant-cognition/farkas-deepdive-ochema.md + PDF.
+
+---
+
 ## v1.4.0 — 2026-07-31 — Evidence Registry + Merkabah sources
 
 ### Changes

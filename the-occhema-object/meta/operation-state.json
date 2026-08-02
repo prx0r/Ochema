@@ -1,25 +1,25 @@
 {
-  "timestamp": "2026-07-31T07:40:28",
-  "version": "1.19.1",
+  "timestamp": "2026-08-01T08:24:29",
+  "version": "1.25.0",
   "files": {
     "ochema.md": "97cd5cee4dda7381",
     "ochemamath.md": "4e89089ead34cb9b",
-    "the-unified-formal-framework.md": "517137b28ef58526",
+    "the-unified-formal-framework.md": "20716b82035b948a",
     "the-orchestration.md": "f408a2ecc162af92",
     "the-moment.md": "cdabeceb72e98c7d",
-    "the-occhema-object/evidence/TREE.md": "da4be14d4512d4de",
-    "the-occhema-object/confrontations/REGISTRY.md": "0928a4ba191305dd",
+    "the-occhema-object/evidence/TREE.md": "7edafec66b0e0ebc",
+    "the-occhema-object/confrontations/REGISTRY.md": "8a939a9c46e2d156",
     "the-occhema-object/sections/07-falsification.md": "2bdbf67e8492662f",
-    "concepts/REGISTRY.md": "f2d4ba46556c9f2a",
+    "concepts/REGISTRY.md": "3c40c7ba2287e194",
     "concepts/QUEUE.md": "ff6d030f4a7b5e43",
-    "the-occhema-object/updates/LOG.md": "6eb49f25910b7790"
+    "the-occhema-object/updates/LOG.md": "4e8e2b9422a0323b"
   },
   "counts": {
-    "concepts": 8,
-    "concepts_with_essays": 8,
-    "confrontations": 17,
-    "evidence_records": 0,
-    "gaps": 10,
+    "concepts": 9,
+    "concepts_with_essays": 9,
+    "confrontations": 18,
+    "evidence_records": 3,
+    "gaps": 11,
     "queued_concepts": 5
   },
   "cycle_state": {
@@ -28,5 +28,5 @@
     "next_targets": [],
     "loop_status": "idle"
   },
-  "log_tail": "  indigo form-maker (Levin's bioelectric field), \"The Grail is the\n  body. The spark is the charge. You are the circuit.\" = the bearer\n  (M, \u03c9) in one line, \"Hello World!\" = the karmic update, the rose\n  = recognition, \"Welcome... the Lattice... any time\" = THE\n  ONBOARDING SEAM \u2014 the movie ends where the game and the app\n  begin. The audience becomes the One Being, then is greeted\n  personally as the player.\n- Version: 1.19.0 \u2192 1.19.1 (patch \u2014 archive)."
+  "log_tail": "  Lidke, Jagann\u0101tha, Mahe\u015bvar\u0101nanda), and the source audit's\n  corrections.\n- **references/what-is-life-comparison.md** \u2014 the hxrmxs thesis is\n  the Primal Pulse at the biological scale; structurally close\n  (the register, coherence, emergence, nested scales,\n  symbiogenesis = the melaka); missing the formalism. The books\n  (A Computable Universe etc.) are NOT on disk \u2014 only cited.\n- Version: 1.24.0 \u2192 1.25.0 (minor \u2014 the theory + the extension)."
 }

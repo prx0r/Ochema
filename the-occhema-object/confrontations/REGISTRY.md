@@ -31,6 +31,7 @@ confronted.
 | Quantum Gravity / Holography Frontier (16 papers) | RT formula; Van Raamsdonk; HaPPY; Penington; Maldacena; Colafranceschi–Adesso | L2, L3 | boundary b_i = RT minimal surface; ι_i = HaPPY logical operator; duality = dual-aspect | **THE HOLOGRAPHIC BRIDGE** | A/C | frontier-holography.md |
 | QRI Valence Program (HTVH 2023, Principia Qualia) | Gómez-Emilsson & Percy; Johnson | L7 | valence ν_i = heavy-tailed | ALIGNS (valence anchor) | B | qri-valence-frontier.md |
 | Gowan's Tetrahedron Model | Gowan corpus (quarantine 0911.0004) | L2 | tetrad (K₄), time-from-state | ALIGNS (form only, 5th K₄ recovery) / CHALLENGES (Akashic Record, resolved) / REJECTS (4×3 numerology; light-no-gravity) | C/D | gowan-tetrahedron-model.md |
+| Walter Russell's Cosmogony | Russell 1926–1957 (Secret of Light, Universal One, Atomic Suicide?) | L2, L6, L8 | octave wave cycles; crystallized light; transmutation-by-wave-alteration | TIER-4 (physics refuted: conservation of energy, wave-particle duality) / ALIGNS (structure only: octave ladder, state-transition, mind-first) / the revelation pattern (Bucke-PKD cluster) | Tier-4 (cosmogony) / C (structural parallels) / A (art) | walter-russell-confrontation.md |
 
 ## Coverage by Layer
 
@@ -116,6 +117,18 @@ confronted.
 3. **Analytic idealism (Kastrup)** — the leading consciousness-first alternative
 4. **Predictive processing (Friston)** — partial via IP review; needs its own record
 5. **Illusionism (Frankish/Dennett)** — the strongest challenge to the identity claim
+
+## RECENT ADDITIONS (2026-08-01)
+
+| Theory | Source | Layer(s) | Verdict | Grade | Record |
+|---|---|---|---|---|---|
+| **Valence = −dF/dt (the TCF's hinge)** | Joffily & Coricelli 2013, PLoS Comput Biol 9(6):e1003094 | L6, L7 | **VALIDATES the TCF's master equation / ENDS its novelty claim** — the formula is published, peer-reviewed; the thesis must cite, not claim. Genuinely novel remainder: spectral-quality conjecture, aneural extension, SAC, DEAM test | A (the formula) / C (the extensions) | tcf-hinge-preexists.md |
+| **Temporo-Spatial Theory (Northoff)** | Northoff et al. 2017–2024 | L6, L7 | ALIGNS — an established temporal alternative to IIT (expansion, globalization, alignment, nestedness) | B | tcf-hinge-preexists.md |
+| **Integrated World Modeling Theory (Safron)** | Safron 2019–2022, PMC9730424 | L7 | ALIGNS — FEP-AI synthesis of IIT + GNWT; temporal, model-based alternative | B | tcf-hinge-preexists.md |
+| **IIT-TTC convergence** | (2022, Entropy, PMC8871397) | L7 | ALIGNS — IIT's 100–300ms window explicitly converged with the stream-of-consciousness timescales | B | tcf-hinge-preexists.md |
+| **Three temporal faces of valence** | Job, White & Albarracin 2026 (OSF preprint) | L6, L7 | **VALIDATES the moment-triad computationally** — backward/present/forward valence = withdrawal/moment/emergence, independently derived in active-inference emotion | B (preprint) | valence-lineage/joffily-deepdive.md |
+| **Deeply Felt Affect (forward valence)** | Hesp et al. 2021, Neural Computation | L7 | ALIGNS — valence = "subjective fitness" = the ν_i coherence functional, independently derived | A | valence-lineage/joffily-deepdive.md |
+| **FEP aesthetics (beauty-uncertainty; aesthetic chills)** | 2022; 2024 (PMC11233292) | L6, L7 | ALIGNS — the rasa theory's "arts as state-space navigators" published in the FEP literature; chills = camatkāra's physiology | B | valence-lineage/joffily-deepdive.md |
 
 ---
 
